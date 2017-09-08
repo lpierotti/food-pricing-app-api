@@ -17,8 +17,10 @@ ActiveRecord::Schema.define(version: 20170908021804) do
 
   create_table "ingredients", force: :cascade do |t|
     t.string "name"
-    t.float "unit_cost"
+    t.float "cost"
     t.string "unit"
+    t.float "cost_per_butter_gram"
+    t.string "butter_unit"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
