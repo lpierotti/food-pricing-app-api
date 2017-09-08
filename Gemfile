@@ -27,6 +27,8 @@ gem 'puma', '~> 3.7'
 
   gem 'unirest', '~> 1.1', '>= 1.1.2'
   gem 'spoonacular', '~> 0.0.2'
+  gem 'http'
+  gem 'httparty'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
