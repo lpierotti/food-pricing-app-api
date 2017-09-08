@@ -2,14 +2,12 @@ class RecipesController < ApplicationController
 
 	def find_recipe
 		query_term = params[:recipe][:searchTerm]
-		response = HTTParty.get("http://food2fork.com/api/search?key=47a822139145268133384616183e0dd2&q=#{query_term}")
+		response = HTTParty.get("https://api.edamam.com/search?q=#{query_term}&app_id=87d3e4f6&app_key=091ef338fd5241717048490065af2e8b&to=1", format: :plain)
 		json = JSON.parse(response, {symbolize_names: true})
-		recipe_id = json[:recipes][0][:recipe_id]
-		response = HTTP.get("http://food2fork.com/api/get?key=47a822139145268133384616183e0dd2&rId=#{recipe_id}")
-		selected_recipe = JSON.parse(response, {symbolize_names: true})
-		array_of_ingredients = selected_recipe[:recipe][:ingredients]
-		recipe_name = selected_recipe[:recipe][:title]
-		render :json => {ingredients: array_of_ingredients, name: recipe_name}
+		recipe_name = json[:hits][0][:recipe][:label]
+		recipe_yield = json[:hits][0][:recipe][:yield]
+		recipe_ingredients = json[:hits][0][:recipe][:ingredients]
+		render :json => {ingredients: recipe_ingredients, name: recipe_name, yield: recipe_yield}
 	end
 
 end
