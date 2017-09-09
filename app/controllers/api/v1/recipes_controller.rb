@@ -1,4 +1,4 @@
-class RecipesController < ApplicationController
+class Api::V1::RecipesController < ApplicationController
 
 	def find_recipe
 		query_term = params[:recipe][:searchTerm]
