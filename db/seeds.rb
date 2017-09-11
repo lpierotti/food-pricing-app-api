@@ -10,5 +10,11 @@ require 'csv'
 
 csv_text = File.read(Rails.root.join('lib', 'seeds', 'butter-grams-data.csv'))
 CSV.parse(csv_text, :headers => true) do |row|
-  puts row.to_h
+  i = Ingredient.new
+  i.name = row['name']
+  i.cost = row['cost']
+  i.unit = row['unit']
+  i.cost_per_butter_gram = row['cost_per_butter_gram']
+  i.butter_unit = row['butter_unit']
+  i.save
 end

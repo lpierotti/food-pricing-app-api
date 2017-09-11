@@ -5,6 +5,7 @@ Rails.application.routes.draw do
       post '/recipes', to: 'recipes#find_recipe'
       post '/restaurants', to: 'restaurants#find_restaurants'
       post '/menus', to: 'menus#find_menu'
+      post '/ingredients', to: 'ingredients#find_ingredients'
     end
   end
 end
