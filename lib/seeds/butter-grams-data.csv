@@ -140,20 +140,20 @@ Cream Cheese Philadelphia single serving,0.2,each,0.2,each
 Cream Cheese Raskas,2,lb,0.00110231,butter-gram
 Creamer Coffee-Mate French Vanilla,0.07,oz,0.5039142857,butter-gram
 Eggs Kirkland Signature 100% Egg Whites,0.08,oz,0.440925,butter-gram
-Eggs Wilcox organic large,3.2,dozen,,butter-gram
-Eggs Wilcox Extra Large,1.75,dozen,,butter-gram
-Eggs Wilcox Large,1.3,dozen,,butter-gram
-Eggs Wilcox Large brown omega 3,2.99,dozen,,butter-gram
+Eggs Wilcox organic large,3.2,dozen,3.2,each
+Eggs Wilcox Extra Large,1.75,dozen,1.75,each
+Eggs Wilcox Large,1.3,dozen,1.3,each
+Eggs Wilcox Large brown omega 3,2.99,dozen,2.99,each
 Eggs Wilcox organic hard boiled and peeled,0.4,each,0.4,each
 Milk Darigold whole chocolate milk,0.05,oz,0.70548,butter-gram
 Milk Darigold 1% chocolate milk,0.1,oz,0.35274,butter-gram
 Milk Darigold half and half,0.05,oz,0.70548,butter-gram
 Milk Darigold heavy whipping cream,0.14,oz,0.2519571429,butter-gram
-Milk Kirkland Signature 1% low-fat,1.2,gallon,,butter-gram
+Milk Kirkland Signature 1% low-fat,1.2,gallon,1.2,each
 Milk Kirkland Signature 2% lactose free,0.04,oz,0.88185,butter-gram
 Milk Kirkland Signature 2% organic,0.06,oz,0.5879,butter-gram
-Milk Kirkland Signature 2% reduced-fat,2.4,gallon,,butter-gram
-Milk Kirkland Signature whole,2.65,gallon,,butter-gram
+Milk Kirkland Signature 2% reduced-fat,2.4,gallon,1.2,each
+Milk Kirkland Signature whole,2.65,gallon,2.65,each
 Milk Silk Almond Milk Original,0.04,oz,0.88185,butter-gram
 Sour Cream Darigold All Natural,1.33,lb,0.001657609023,butter-gram
 Whipped Cream Land o Lakes,3,each,3,each
@@ -267,7 +267,7 @@ Almonds Blue Diamond Smokehouse,6.19,lb,0.0003561583199,butter-gram
 Almonds Kirkland Signature dry roasted,4.4,lb,0.00050105,butter-gram
 Almonds Kirkland Signature marcona,11.79,lb,0.0001869906701,butter-gram
 Applesauce Treetop organic,0.04,oz,0.88185,butter-gram
-Avocado oil Chosen Foods,9.79,liter,,butter-gram
+Avocado oil Chosen Foods,9.79,liter,9.79,each
 Bacon crumbles Kirkland Signature,0.5,oz,0.070548,butter-gram
 Balsamic vinegar Kirkland Signature,0.33,oz,0.1068909091,butter-gram
 Barbecue Sauce Sweet Baby Ray's,0.07,oz,0.5039142857,butter-gram
@@ -357,8 +357,8 @@ Canned Tuna Chicken of the Sea solid white albacore in water,0.23,oz,0.153365217
 Canned Tuna Kirkland Signature chunk light skip jack tuna in water,0.16,oz,0.2204625,butter-gram
 Canned Tuna Kirkland Signature solid white albacore in water,0.23,oz,0.1533652174,butter-gram
 Canned Tuna Wild Planet Albacore Pole and Troll Caught,0.5,oz,0.070548,butter-gram
-Canned Vienna Sausage Libby's,0.44,can,,butter-gram
-Canola oil Kirkland Signature,1.42,qt,,butter-gram
+Canned Vienna Sausage Libby's,0.44,can,0.44,each
+Canola oil Kirkland Signature,1.42,qt,1.42,each
 Canola oil Kirkland Signature cooking spray,0.15,oz,0.23516,butter-gram
 Cereal Annie's Organic Cocoa Bunnies,0.29,oz,0.1216344828,butter-gram
 Cereal Cinnamon Toast Crunch,0.14,oz,0.2519571429,butter-gram
@@ -431,7 +431,7 @@ Cookies Kellogg's Rice Krispie Treats,0.2,each,0.2,each
 Cookies Thinsters Chocolate Chip Cookie Thins,0.43,oz,0.08203255814,butter-gram
 Cookies Oreos,0.16,oz,0.2204625,butter-gram
 Cookies Sugar Bowl Bakery Petite Palmiers,0.22,oz,0.1603363636,butter-gram
-Corn oil Mazola,1.8,qt,,butter-gram
+Corn oil Mazola,1.8,qt,1.8,each
 Crackers 34 Degree Crispbread,0.49,oz,0.0719877551,butter-gram
 Crackers Annie's Homegrown Bunny Snacks,0.33,each,0.33,each
 Crackers Bamboo Lane Crunchy Rice Rollers,1.75,each,1.75,each
@@ -471,16 +471,6 @@ Fruit snacks Stretch Island 100% natural fruit,0.22,each,0.22,each
 Fruit snacks Tree Top,0.14,each,0.14,each
 Gravy McCormick Brown Gravy mix,0.19,oz,0.1856526316,butter-gram
 Gravy McCormick Poultry mix,0.22,oz,0.1603363636,butter-gram
-Gum and Mints Altoids,1.17,pack,,butter-gram
-Gum and Mints Dentyne Ice,0.62,pack,,butter-gram
-Gum and Mints Extra,0.55,pack,,butter-gram
-Gum and Mints Orbit Mint Variety,0.61,pack,,butter-gram
-Gum and Mints Orbit Sweetmint,0.59,pack,,butter-gram
-Gum and Mints Trident Original,0.61,pack,,butter-gram
-Gum and Mints Trident White Peppermint,0.61,pack,,butter-gram
-Gum and Mints Wrigley's Eclipse Big E,2.37,pack,,butter-gram
-Gum and Mints Wrigley's Extra Mint Variety,0.53,pack,,butter-gram
-Gum and Mints Wrigley's Mint Variety,0.73,pack,,butter-gram
 Hash browns Golden Grill Russet,0.2,oz,0.17637,butter-gram
 Honey Kirkland Signature,0.14,oz,0.2519571429,butter-gram
 Honey Kirkland Signature organic bears,0.21,oz,0.1679714286,butter-gram
@@ -494,8 +484,8 @@ Jerky Oberto Beef Pepperoni sticks,0.54,oz,0.06532222222,butter-gram
 Jerky Oberto Teriyaki Turkey all natural,0.83,oz,0.04249879518,butter-gram
 Ketchup Heinz,0.05,oz,0.70548,butter-gram
 Lemon Juice Realemon,0.06,oz,0.5879,butter-gram
-Mac and Cheese Annies Organic,1.12,box,,butter-gram
-Mac and Cheese Kraft,0.82,box,,butter-gram
+Mac and Cheese Annies Organic,1.12,box,1.12,each
+Mac and Cheese Kraft,0.82,box,0.82,each
 Mac and Cheese Kraft Easy Mac,0.77,each,0.77,each
 Macadamia nuts Kirkland Signature dry roasted,11.33,lb,0.0001945825243,butter-gram
 Madras Lentils Tasty Bite,1.67,each,1.67,each
@@ -518,12 +508,12 @@ Nutella hazelnut spread,0.18,oz,0.1959666667,butter-gram
 Oatmeal Nature's Path Organic Hot Variety Pack,0.29,each,0.29,each
 Oatmeal Quaker instant variety pack,0.19,each,0.19,each
 Oatmeal Quaker old fashioned,0.05,oz,0.70548,butter-gram
-Olive oil Bel'osio extra light tasting,4.75,liter,,butter-gram
-Olive oil extra virgin California Olive Ranch Olio Neuvo,9.49,liter,,butter-gram
-Olive oil extra virgin Kirkland Signature,6,liter,,butter-gram
-Olive oil extra virgin organic Kirkland Signature,7,liter,,butter-gram
-Olive oil extra virgin Terra Delyssa organic,6.9,liter,,butter-gram
-Olive oil Kirkland Signature,4.67,liter,,butter-gram
+Olive oil Bel'osio extra light tasting,4.75,liter,4.75,each
+Olive oil extra virgin California Olive Ranch Olio Neuvo,9.49,liter,9.49,each
+Olive oil extra virgin Kirkland Signature,6,liter,6,each
+Olive oil extra virgin organic Kirkland Signature,7,liter,7,each
+Olive oil extra virgin Terra Delyssa organic,6.9,liter,6.9,each
+Olive oil Kirkland Signature,4.67,liter,4.67,each
 Olives Black Pearl extra-large pitted,0.2,oz,0.17637,butter-gram
 Olives Kalamata pitted Tassos,0.15,oz,0.23516,butter-gram
 Olives Kirkland Signature Spanish Queen,0.21,oz,0.1679714286,butter-gram
@@ -558,7 +548,7 @@ Pistachios Wonderful Shelled,10.33,lb,0.0002134191675,butter-gram
 Pizza crust Boboli Party Pack,1.12,each,1.12,each
 Popcorn Cosmos Creations Salted Caramel Corn,0.24,oz,0.146975,butter-gram
 Popcorn Cretor's Cheddar and Caramel Kettle Corn,0.23,oz,0.1533652174,butter-gram
-Popcorn Kirkland Signature Movie Theater Butter,0.22,bag,,butter-gram
+Popcorn Kirkland Signature Movie Theater Butter,0.22,bag,0.22,each
 Popcorn Orville Redenbacher kernels,1.5,lb,0.001469746667,butter-gram
 Popcorn Skinny Pop,0.39,oz,0.09044615385,butter-gram
 Protein shakes Cellucor C4 Pre Workout,0.68,each,0.68,each
@@ -608,7 +598,7 @@ Seasoning McCormick Smoked Paprika,0.45,oz,0.07838666667,butter-gram
 Seasoning McCormick Spaghetti Sauce Mix,0.24,oz,0.146975,butter-gram
 Seasoning McCormick Taco Seasoning,0.18,oz,0.1959666667,butter-gram
 Seasoning Mrs. Dash original no-salt,0.48,oz,0.0734875,butter-gram
-Seaweed Kirkland Signature Roasted,0.79,ct,,butter-gram
+Seaweed Kirkland Signature Roasted,0.79,ct,0.79,each
 Single serve fruit Gogo Squeeze Organic Applesauce,0.17,oz,0.2074941176,butter-gram
 Single serve fruit Kirkland Signature Organic Applesauce Pouch,0.42,each,0.42,each
 Soup Amy's Organic Lentil and Lentil Vegetable,0.11,oz,0.3206727273,butter-gram
@@ -626,17 +616,17 @@ Soup Pacific Organic Roasted Red Pepper and Tomato,0.06,oz,0.5879,butter-gram
 Soup Swanson Chicken Broth 33% Less Sodium,0.04,oz,0.88185,butter-gram
 Soy sauce Kikkoman,0.08,oz,0.440925,butter-gram
 Tea bags Kirkland Signature Japanese green tea,0.13,each,0.13,each
-"Tortillas Guerrero 6"""" Corn""""",0.04,each,0.04,each
-"Tortillas Mission 8"""" Flour""""",0.12,each,0.12,each
-"Tortillas Mission 10"""" Flour""""",0.14,each,0.14,each
+"Tortillas Guerrero 6' Corn",0.04,each,0.04,each
+"Tortillas Mission 8' Flour",0.12,each,0.12,each
+"Tortillas Mission 10' Flour",0.14,each,0.14,each
 Tortillas Mission Whole Wheat,0.17,each,0.17,each
 Trail mix Harvest Grove Berries & Nuts,0.4,oz,0.088185,butter-gram
 Trail mix Kirkland Signature Organic Nuts and Berries,0.46,oz,0.0766826087,butter-gram
 Trail mix Kirkland Signature with M&M's,3.22,lb,0.0006846645963,butter-gram
 Trail mix Trail Blaze Organic,0.72,oz,0.04899166667,butter-gram
 Trail mix Wildroots Coastal Berry Blend,0.37,oz,0.09533513514,butter-gram
-Vegetable oil Kirkland Signature,1.4,quart,,butter-gram
-Vinegar Four Monks Distilled,2.15,gallon,,butter-gram
+Vegetable oil Kirkland Signature,1.4,quart,1.4,each
+Vinegar Four Monks Distilled,2.15,gallon,2.15,each
 Vinegar Vermont Village Apple Cider organic,0.1,oz,0.35274,butter-gram
 Worcestershire sauce Lea & Perrins,0.17,oz,0.2074941176,butter-gram
 Beef chuck pot roast boneless,5.39,lb,0.0004090204082,butter-gram

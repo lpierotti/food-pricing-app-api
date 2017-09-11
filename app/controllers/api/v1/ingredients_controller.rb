@@ -5,9 +5,13 @@ class Api::V1::IngredientsController < ApplicationController
     matching_ingredients = []
     ingredient_list.each do |item|
       Ingredient.all.each do |ingredient|
-        if (item.split(" ")-ingredient.name.split(" ")).empty?
-          matching_ingredients << ingredient
+        downcased_name = ingredient.name.downcase
+        if (item["name"].split(" ")-downcased_name.split(" ")).empty?
+          price  = item["amount"]*ingredient.cost_per_butter_gram
+          matching_ingredients << {ingredient: item["name"], price: price}
           break
+        else
+
         end
       end 
     end
