@@ -1,0 +1,837 @@
+Product,Quantity,Size,Price,Per unit price
+Bagels,2 @ 6 ea,12 ct,5.49,$0.46 each
+Dinner Rolls,1 bag,36 ct,4.49,$0.12 each
+Muffins,2 @ 6 ea,12 ct,7.99,$0.67 each
+Pretzel Slider Buns,1 bag,16 ct,5.99,$0.37 each
+"Agave Nectar, Wholesome! organic",2 @ 36 oz,72 oz,9.99,$0.14 per oz
+"Almonds, Kirkland Signature, non-pareil",1 bag,3 lbs,12.69,$4.23 per lb
+"Almonds, Mariani sliced",1 bag,2 lbs,7.99,$4.00 per lb
+"Baking mix, Bisquick pancake and baking mix",1 box,6 lbs,5.49,$0.06 per oz
+"Baking mix, Ghirardelli Brownie Triple Chocolate Mix",1 box,120 oz,10.39,$0.09 per oz
+"Baking mix, Kodiak Power Cakes Flapjack and Waffle mix",1 box,4.5 lbs,11.99,$0.17 per oz
+"Baking mix, Krusteaz Buttermilk pancake mix",1 box,10 lb,5.99,$0.60 per lb
+"Baking powder, Red Star",1 container,60 oz,5.39,$0.09 per oz
+"Baking soda, Arm & Hammer",1 bag,13.5 lb,6.59,$0.49 per lb
+"Chocolate chips, Nestle Toll House Morsels",1 bag,72 oz,8.99,$0.13 per oz
+"Flour, all-purpose, Conagra, 25 lbs",1 bag,25 lbs,5.99,$0.24 per lb
+"Flour, Blue Diamond Almond Flour",1 bag,3 lb,13.69,$4.56 per lb
+"Flour, Namaste Gluten Free Organic Perfect Blend",1 bag,5 lbs,11.99,$2.40 per lb
+"Hemp Seeds, Manitoba Harvest Foods raw",1 bag,28 oz,11.99,$0.43 per oz
+"Pecan halves, Kirkland Signature",1 bag,2 lbs,14.79,$7.40 per lb
+"Sesame seeds, Rodelle",18 oz,18 oz,4.89,$0.27 per oz
+"Shortening, Crisco",6 lb,6 lbs,7.69,$1.28 per lb
+"Sugar, brown, C&H, 25 lbs",1 bag,25 lbs,14.99,$0.60 per lb
+"Sugar, brown, C&H, pure cane",1 bag,7 lb,4.89,$0.70 per lb
+"Sugar, granulated, C&H, 10 lbs",1 bag,10 lbs,4.99,$0.50 per lb
+"Sugar, granulated, C&H, 25 lbs",1 bag,25 lbs,11.99,$0.48 per lb
+"Sugar, granulated, Kirkland Signature, organic, cane sugar",1 bag,10 lbs,7.99,$0.79 per lb
+"Sugar, powdered, C&H, 7 lbs",1 bag,7 lbs,4.99,$0.71 per lb
+"Vanilla, Kirkland Signature",1 bottle,16 oz,23.99,$1.50 per oz
+"Walnuts, Kirkland Signature",1 bag,3 lbs,10.99,$3.66 per lb
+"Yeast, Red Star Active Yeast",1 bag,32 oz,4.49,$0.14 per oz
+"Aloe vera drink, Alo variety",12 @ 16.9 oz,202.8 oz,13.99,$0.07 per oz or $1.17 each
+Bai5 Antioxidant Infusions variety,15 @ 18 oz,270 oz,19.99,$1.33 each
+"Cocoa, Nesquik Chocolate Powder",41.9 oz,41.9 oz,6.99,$0.17 per oz
+"Cocoa, Stephen's Milk Chocolate",64 oz,64 oz,8.99,$0.14 per oz
+"Coconut water, Kirkland Signature",12 @ 11.1 oz,133.2 oz,9.99,"$0.08 per oz, or $0.83 each"
+"Coconut water, Vita Coco",12 @ 11.1 oz,133.2 oz,13.99,"$0.11 per oz, or $1.17 each"
+"Coke products, 12 oz cans",35 @ 12 oz,384 oz,10.99,$0.31 each
+Crystal Light on the Go,44 @ .11 oz,44 ct,7.79,$0.18 each
+"Energy drink, 5 Hour Energy",24 @ 1.93 oz,46.32 oz,35.99,$1.50 each
+"Energy drink, Kirkland Signature energy shot",48 @ 2 oz,96 oz,34.99,$0.73 each
+"Energy drink, Kirkland Signature extra strength energy shot",48 @ 2 oz,96 oz,38.99,$0.81 each
+"Energy drink, Monster",24 @ 16 oz,384 oz,32.99,$1.38 each
+"Energy drink, Red Bull",24 @ 8.4 oz,201.6 oz,35.99,$1.50 each
+Gatorade Fierce variety pack,35 @ 16.9 oz,591.5 oz,15.99,$0.46 each
+Gatorade Frost variety pack,35 @ 16.9 oz,591.5 oz,15.99,$0.46 each
+Gatorade G2 variety pack,35 @ 16.9 oz,591.5 oz,15.99,$0.46 each
+Gatorade variety Allstars,28 @ 12 oz,336 oz,12.99,$0.46 each
+Gatorade variety pack,35 @ 16.9 oz,591.5 oz,15.99,$0.46 each
+Glaceau Vitamin Water Variety,20 @ 20 oz,400 oz,15.99,$0.80 each
+"Honest Kids Organic, variety",40 @ 6 oz,240 oz,9.99,"$0.04 per oz, or $0.25 each"
+Izze,24 @ 8.4 oz,201.6 oz,14.79,"$0.07 per oz, or $0.62 per can"
+"Juice, Capri-Sun 100% Juice Variety",40 @ 6oz,240 oz,9.99,"$0.04 per oz, or $0.25 each"
+"Juice, Capri-Sun 10% Juice Variety",40 @ 6oz,240 oz,7.89,"$0.03 per oz, or $0.20 each"
+"Juice, Kern's Nectar Variety Pack",30 @ 11.5 oz,345 oz,13.59,$0.45 each
+"Juice, Kirkland Signature Cranberry",2 @ 96 oz,192 oz,5.79,$0.03 per oz
+"Juice, Kirkland Signature Cranberry-Raspberry",2 @ 96 oz,192 oz,5.99,$0.03 per oz
+"Juice, Kirkland Signature Fresh Pressed Apple",2 @ 128 oz,256 oz,7.89,$0.03 per oz
+"Juice, Kirkland Signature Newman's Grape Juice",2 @ 96 oz,192 oz,6.69,$0.04 per oz
+"Juice, Kirkland Signature variety, 100% juice, organic",40 @ 6.75 oz,270 oz,12.79,"$0.05 per oz, or $0.32 each"
+"Juice, Langers Mango Nectar",128 oz,128 oz,5.89,$0.05 per oz
+"Juice, Martinelli's Sparkling Cider",4 @ 25.4 oz,100.6 oz,8.49,$0.08 per oz or $2.12 each
+"Juice, Tree Top Apple Juice",2 @ 128 oz,256 oz,7.49,$0.03 per oz
+"Juice, Tropicana Orange",24 @ 10 oz,240 oz,13.39,"$0.06 per oz, or $0.56 each"
+"Juice, V-8 100% Vegetable Juice",28 @ 11.5 oz,322 oz,13.99,$0.50 each
+Kirkland Signature Sparkling Flavored Water Variety,24 @ 17oz,408 oz,8.99,$0.38 each
+Kirkland Signature Vitarain Zero Variety,24 @ 20 oz,480 oz,9.99,$0.42 each
+"Non-Dairy Milk, Blue Diamond Vanilla Almond Breeze",6 @ 32 oz,192 oz,8.99,$0.05 per oz
+"Non-Dairy Milk, Kirkland Signature Organic Almond unsweetened",6 @ 32 oz,192 oz,8.49,$0.04 per oz
+"Non-Dairy Milk, Kirkland Signature Organic Soy",12 @ 32 oz,384 oz,13.99,$0.04 per oz
+"Pepsi products, 12 oz cans",36 @ 12 oz,432 oz,9.99,$0.28 each
+Propel Zero Fitness Water Variety,24 @ 16.9 oz,405.6 oz,9.99,$0.42 each
+Snapple Diet Tea Variety,24 @ 20 oz,480 oz,17.59,$0.73 each
+Starbucks Frappuccino,15 @ 9.5 oz,142.5 oz,17.59,$1.17 each
+Sunny Delight Big D Sports Cap,24 @ 11.3 oz,271.2 oz,10.39,$0.04 per oz or $0.43 each
+Talking Rain Sparkling variety,30 @ 16.9 oz,507,9.99,$0.33 each
+Talking Rain Sparkling Ice Variety Pack,18 @ 17 oz,306 oz,10.99,$0.61 each
+"Water, Arrowhead Spring",40 @ 16.9 oz,676 oz,4.99,$0.13 each
+"Water, Arrowhead Spring Sport Top",24 @ 23.7 oz,568.8 oz,4.89,$0.20 each
+"Water, Glaceau Smartwater",15 @ 1 liter,15 l,14.99,$1 each
+"Water, Kirkland Signature Drinking Water",21 @ 1 liter,21 l,3.99,$0.19 each
+"Water, Kirkland Signature Premium",40 @ 16.9 oz,676 oz,2.99,$0.07 each
+"Water, Kirkland Signature Premium",80 @ 8 oz,640 oz,6.99,$0.10 each
+"Water, Perrier Sparkling Mineral",24 @ .5l,12 l,16.99,$0.71 each
+"Water, San Pellegrino Sparkling Mineral",15 @ 25.3 oz,379.5 oz,16.99,$1.13 each
+"Butter, I Can't Believe it's not Butter",2 @ 45oz,90 oz,8.99,$0.10 per oz
+"Butter, Kerrygold Salted Butter",1.5 lbs,1.5 lbs,7.69,$5.13 per lb
+"Butter, Kirkland Signature Butter Quarters",4 @ 1 lb,4 lbs,9.99,$2.50 per lb
+"Butter, Kirkland Signature Organic Butter Quarters",2 @ 1 lb,2 lbs,7.99,$4.00 per lb
+"Butter, Kirkland Signature Salted Butter Solids",4 @ 1lbs,4 lbs,9.89,$2.50 per lb
+"Cheese, Babybel, mini bel kaukauna (reg. or light)",32 @ .75 oz,24 oz,10.99,$0.48 per oz or $0.39 each
+"Cheese, Bandon Medium Cheddar",1 loaf,2.5 lbs,6.99,$2.80 per lb
+"Cheese, Beecher's Flagship",varies,varies,varies,$8.89 per lb
+"Cheese, Belgioioso, Crumbled Gorgonzola",24 oz,24 oz,7.49,$4.99 per lb
+"Cheese, Belgioioso, Mild Provolone",1 container,2 lbs,7.89,$3.95 per lb
+"Cheese, Belgioioso, Sliced Mozzarella logs",2 @ 1 lb,2 lbs,7.79,$3.90 per lb
+"Cheese, Boursin",3 @ 5.2 oz,15.6 oz,8.99,$0.58 per oz
+"Cheese, Darigold Cottage",3 lbs,3 lbs,4.99,$1.66 per lb
+"Cheese, Darigold Sharp Cheddar",2 @ 1.5 lbs,3 lbs,8.39,$2.80 per lb
+"Cheese, Dofino Sliced Havarti",2 lbs,2 lbs,7.99,$4.00 per lb
+"Cheese, Finlandia, Four Cheese Variety",2 lbs,2 lbs,8.69,$4.35 per lb
+"Cheese, Finlandia, Reduced Fat Variety",2 lbs,2 lbs,7.99,$4.00 per lb
+"Cheese, Frigo Mozzarella Loaf",1 loaf,2 lbs,4.99,$2.50 per lb
+"Cheese, Frigo String Cheese",60 ct @ 1 oz,60 oz,10.49,$0.18 each
+"Cheese, Galbani Shredded Parmesan",3 lbs,3 lb,10.99,$3.66 per lb
+"Cheese, Gruyere, imported Switzerland",varies,varies,varies,$10.89 per lb
+"Cheese, Kerrygold Dubliner",varies,varies,varies,$5.89 per lb
+"Cheese, Kirkland Signature American Blue Cheese",varies,varies,varies,$4.69 per lb
+"Cheese, Kirkland Signature American singles",120 ct,5 lb,10.99,$0.09 each
+"Cheese, Kirkland Signature, Goat",2 @ 10.5 oz,21 oz,6.79,$0.32 per oz
+"Cheese, Kirkland Signature, Cheddar Jack, shredded",2 @ 2.5lb,5 lbs,13.69,$2.74 per lb
+"Cheese, Kirkland Signature, French Comte",17.6 oz,17.6 oz,8.59,$0.49 per lb
+"Cheese, Kirkland Signature, Italian Pecorino Romano",varies,varies,varies,$6.69 per lb
+"Cheese, Kirkland Signature, Medium Cheddar, shredded",2 @ 2.5 lb,5 lbs,15.99,$3.20 per lb
+"Cheese, Kirkland Signature, Mild Cheddar, block",2 lbs,2 lbs,4.99,$2.50 per lb
+"Cheese, Kirkland Signature, Mild Cheddar, block",5 lbs,5 lbs,12.99,$2.60 per lb
+"Cheese, Kirkland Signature, Mild Cheddar, shredded",2 @ 2.5 lbs,5 lbs,13.69,$2.74 per lb
+"Cheese, Kirkland Signature, Mexican Blend, shredded",2 @ 1.5lb,3 lbs,8.59,$2.86 per lb
+"Cheese, Kirkland Signature, Parmigiano Reggiano, shredded",1 tub,1 lb,11.49,$11.49 per lb
+"Cheese, Kirkland Signature, Reggiano Stravecchio",varies,varies,10.49,$10.49 per lb
+"Cheese, Kirkland Signature Sharp Cheddar",5 lb,5 lbs,11.99,$2.40 per lb
+"Cheese, Kolios Organic Greek Feta",16 oz,16 oz,6.89,$0.43 per oz
+"Cheese, Kraft American singles",96 ct,4 lbs,9.99,$0.10 each
+"Cheese, Laughing Cow",4 @ 6 oz,24 oz,7.99,$0.25 per oz
+"Cheese, Organic Creamery Sharp Cheddar, organic",varies,varies,varies,$7.99 per lb
+"Cheese, President Brie",varies,varies,varies,$4.99 per lb
+"Cheese, President Feta",1 container,per lb,per lb,$3.69 per lb
+"Cheese, Sargento Balanced Breaks",12 @ 1.5 oz,18 oz,8.99,$0.50 per oz or $0.75 each
+"Cheese, Tillamook 3 Year Reserve Cheddar",18 oz,18 oz,6.79,$0.38 per oz
+"Cheese, Tillamook Colby and Jack, sliced",1 bag,2 lbs,7.99,$3.99 per lb
+"Cheese, Tillamook Colby Jack",1 loaf,2.5 lbs,7.99,$3.20 per lb
+"Cheese, Tillamook Extra Sharp Cheddar",1 loaf,2 lbs,9.59,$4.80 per lb
+"Cheese, Tillamook Extra Sharp White Cheddar",1 loaf,2 lbs,10.79,$5.40 per lb
+"Cheese, Tillamook Medium Cheddar, sliced",1 bag,2.5 lbs,9.69,$3.88 per lb
+"Cheese, Tillamook Pepper Jack",1 loaf,2.5 lbs,7.99,$3.20 per lb
+"Cheese, Tillamook Sharp Cheddar, block",2.5 lbs,2.5 lbs,8.99,$3.60 per lb
+"Cheese, Tillamook Spicy Combo, sliced",1 bag,2 lbs,7.99,$4.00 per lb
+"Cheese, Tillamook Swiss, sliced",1 pkg,2 lbs,8.99,$4.50 per lb
+"Cream Cheese, Philadelphia",1 container,3 lbs,8.39,$2.80 per lb
+"Cream Cheese, Philadelphia, single serving",1 box,50 ct,9.99,$0.20 each
+"Cream Cheese, Raskas",1 loaf,3 lbs,5.99,$2.00 per lb
+"Creamer, Coffee-Mate French Vanilla",2 @ 56 oz,112 oz,7.99,$0.07 per oz
+"Eggs, Kirkland Signature 100% Egg Whites",6 @ 16 oz,96 oz,7.99,$0.08 per oz
+"Eggs, Wilcox, organic large",24 ct,24 ct,6.39,$3.20 per dozen
+"Eggs, Wilcox, Extra Large",24ct,24ct,3.49,$1.75 per dozen
+"Eggs, Wilcox, Large",60 ct,60 ct,6.49,$1.30 per dozen
+"Eggs, Wilcox, Large brown omega 3",18 ct,18 ct,4.49,$2.99 per dozen
+"Eggs, Wilcox, organic, hard boiled and peeled",24 ct,24 ct,9.59,$0.40 each
+"Milk, Darigold, whole, chocolate milk",1 carton,64 oz,3.29,$0.05 per oz
+"Milk, Darigold, 1%, chocolate milk",18 @ 8 oz,144 oz,9.59,$0.10 per oz
+"Milk, Darigold, half and half",1/2 gallon,1/2 gallon,3.49,$0.05 per oz
+"Milk, Darigold, heavy whipping cream",1/2 gallon,1/2 gallon,8.49,$0.14 per oz
+"Milk, Kirkland Signature, 1% low-fat",2 @ 1 gallon,2 gallons,4.39,$1.20 per gallon
+"Milk, Kirkland Signature, 2%, lactose free",3 @ 64 oz,192 oz,6.99,$0.04 per oz
+"Milk, Kirkland Signature, 2%, organic",3 @ 64 oz,192 oz,11.59,$0.06 per oz
+"Milk, Kirkland Signature, 2% reduced-fat",2 @ 1 gallon,2 gallons,4.79,$2.40 per gallon
+"Milk, Kirkland Signature, whole",2 @ 1 gallon,2 gallons,5.29,$2.65 per gallon
+"Milk, Silk Almond Milk Original",3 @ 64 oz,192 oz,7.59,$0.04 per oz
+"Sour Cream, Darigold All Natural",1 container,3 lbs,3.99,$1.33 per lb
+"Whipped Cream, Land o Lakes",3 @ 14 oz,42 oz,8.99,$3 each
+"Yogurt, Chobani Greek, variety",20 @ 5.3 oz,106 oz,14.99,"$0.14 per oz, or $0.75 each"
+"Yogurt, Dannon Activia Probiotic",24 @ 4 oz,96 oz,9.99,"$0.10 per oz, or $0.42 each"
+"Yogurt, Dannon Light and Fit Greek",18 @ 5.3 oz,95.4 oz,12.99,$0.14 per oz or $0.72 each
+"Yogurt, Fage Greek Nonfat",1 tub,48 oz,5.6,$0.12 per oz
+"Yogurt, Kirkland Signature Greek Non-fat",2 @ 32 oz,64 oz,5.99,$0.09 per oz
+"Yogurt, Yoplait Go-Gurt",32 @ 2.25oz,72 oz,7.89,$0.11 per oz or $0.25 each
+"Yogurt, Yoplait Variety Pack, Light",24 ct @ 6 oz,144 oz,9.99,$0.42 each
+"Bagel Bites, Ore-Ida",1 bag,72 ct,9.99,$0.14 each
+"Beef, ground, Kirkland Signature 91% lean",5 @ 1 lb,5 lbs,15.99,$3.20 per lb
+"Beef patties, Kirkland Signature ground beef",24 ct,6 lbs,15.99,$2.67 per lb
+"Beef patties, Kirkland Signature sirloin",18 ct,6 lbs,17.99,$3.00 per lb
+"Beef patties, Quick'N Eat Angus Choice",12 ct,3 lb,14.99,$5.00 per lb
+"Black bean burgers, Morningstar Farms chipotle",12 ct,50.4 oz,14.79,$4.70 per lb or $1.23 each
+"Blueberries, Kirkland Signature",1 bag,5 lbs,7.49,$1.50 per lb
+"Blueberries, Kirkland Signature organic",1 bag,3 lbs,10.79,$3.60 per lb
+"Bread, Udi's Gluten Free",1 loaf,30 oz,6.99,$0.23 per oz
+"Breakfast turkey sandwich, Jimmy Dean",1 box,12 ct,11.99,$1.00 each
+"Broccoli, Purely Frozen Organic",4 bags,4 lbs,7.59,$1.90 per lb
+"Buffalo chicken rolls, Coyote Grill",1 box,34 oz,8.99,$0.26 per oz
+"Burritos, Don Miguel Chicken and Cheese",1 box,12 ct,11.69,$0.97 each
+"Burritos, El Monterey Variety",1 box,30 ct,14.99,$0.50 each
+"Cheeseburgers, Pierre Signatures",1 box,8 ct,13.49,$1.69 each
+"Cherries, Moov organic",1 bag,3 lbs,8.99,$3.00 per lb
+"Chicken Bakes, Kirkland Signature",6 @ 8 oz,3 lbs,10.99,$1.83 each
+"Chicken Cordon Bleu, Pierre",6 @ 6.5 oz,39 oz,13.69,$0.35 per oz or $2.28 each
+"Chicken, Breasts, Boneless, Skinless",1 bag,6.5 lbs,16.79,$2.58 per lb
+"Chicken, Breasts, Boneless, Skinless",1 bag,10 lbs,21.49,$2.15 per lb
+"Chicken, Breasts, Grilled Foster Farms Strips",1 bag,3.25 lbs,13.99,$4.31 per lb
+"Chicken, Foster Farms Boneless Buffalo Bites",1 bag,3.5 lb,11.99,$3.43 per lb
+"Chicken, Nuggets, Dino Buddies",1 bag,5 lbs,11.89,$2.38 per lb
+"Chicken, Nuggets, Perdue Panko",1 bag,5 lbs,11.89,$2.38 per lb
+"Chicken, Patties, Don Lee Farms grilled",12 @ 3.5oz,2.5 lbs,14.99,$6.00 per lb
+"Chicken, Patties, Foster Farms",5 lbs,5 lbs,13.79,$2.76 per lb
+"Chicken, Tenders, Kirkland Signature",1 bag,6 lbs,15.99,$2.67 per lb
+"Chicken, Tenders, Tyson, breaded",1 bag,5 lbs,13.99,$2.80 per lb
+"Chicken, Thighs, Boneless, Skinless, Kirkland Signature",1 bag,6.5 lbs,12.99,$2.00 per lb
+"Chicken, Wings, Foster Farms Cracked Pepper",1 bag,5 lbs,15.49,$3.10 per lb
+"Chicken, Wings, Foster Farms Honey BBQ",1 bag,5 lbs,15.49,$3.10 per lb
+"Chicken, Wings, Foster Farms Hot 'N Spicy",1 bag,5 lbs,15.49,$3.10 per lb
+"Chicken, Wings, Kirkland Signature",1 bag,10 lbs,19.99,$2.00 per lb
+"Chimichangas, Posada Steak",1 box,18 @ 5 oz,13.89,"$0.15 per oz, or $0.77 each"
+"Cod, Kirkland Signature Wild Alaskan",1 bag,2 lbs,14.99,$7.50 per lb
+"Cod, Trident Beer Batter",1 bag,2.5 lbs,12.79,$5.12 per lb
+"Corn, Flav-R-Pac Organic White",1 bag,5 lbs,6.79,$1.36 per lb
+"Corn Dogs, Foster Farms Chicken",28 @ 4 oz,112 oz,9.99,$0.36 each
+"Cream puffs, Delizza mini",100 ct,44 oz,8.79,"$0.20 per oz, or $0.09 each"
+"Creamy chicken and rice, Milton's",2 @ 38 oz,76 oz,13.99,$2.95 per lb
+"Egg rolls, Minh, pork",20 @ 3 oz,60 oz,7.59,$2.02 per lb or $0.38 per lb
+"Fish sticks, Trident",1 box,4 lbs,11.99,$3.00 per lb
+"Fruit, Kirkland Signature 3 Berry Blend",1 bag,4 lb,8.99,$2.25 per lb
+"Fruit, Rader Farms Fresh Start Smoothie blend, organic",6 @ 8 oz,48 oz,11.99,$4.00 per lb
+"Fruit, Sunrise Growers antioxidant blend, organic",1 bag,3 lbs,9.99,$3.33 per lb
+"Fruit, Wawona Festival",1 bag,6 lbs,10.99,$1.83 per lb
+"Green Beans, Maas River Farms Organic",1 bag,5 lbs,7.29,$1.49 per lb
+"Hot Pockets, Bacon egg and cheese",1 box,17 @ 4.5oz,11.99,$0.71 each
+"Hot Pockets, Pepperoni pizza",1 box,17 @ 4.5 oz,11.99,$0.71 each
+"Ice cream, Haagen Dazs vanilla almond bars",15 @ 3oz,45 oz,12.49,$0.83 each
+"Ice cream, Healthy Choice Fudge Bars",18 @ 3 oz,54 oz,11.89,$0.66 each
+"Ice cream, Kirkland Signature, Vanilla",2 @ .5 gallon,1 gallon,11.99,$0.09 per oz
+"Lasagna, Kirkland Signature beef",2 @ 3 lbs,6 lbs,11.99,$2.00 per lb
+"Lasagna, Kirkland Signature sausage and beef",2 @ 3 lbs,6 lbs,12.69,$2.12 per lb
+"Mahi Mahi, Kirkland Signature, wild pacific",1 bag,3 lbs,23.99,$8.00 per lb
+"Mandarin Orange Chicken, Crazy Cuisine",1 box,66 oz,14.99,$0.23 per oz
+"Mango, Moov organic",1 bag,4 lbs,9.29,$2.32 per lb
+"Meatballs, Kirkland Signature Italian Style",1 bag,6 lbs,16.99,$2.83 per lb
+"Mozzarella sticks, Petite Cuisine",1 box,5 lbs,13.49,$0.17 per oz
+"Orange Juice, Sunshine",6 @ 16 oz,96 oz,11.49,$0.12 per oz
+"Peas, Flav-R-Pac organic",1 bag,5 lb,6.79,$1.36 per lb
+"Philly cheese steak, Raybern",6 @ 5.6 oz,33.6 oz,11.99,$0.36 per oz or $2 each
+"Pita melt, Sandwich Brothers",15 @ 2.5 oz,37.5 oz,10.99,$0.29 per oz or $0.73 eacg
+"Pizza, Kirkland Signature cheese",4 ct,4 ct,9.99,$0.15 per oz or $2.50 each
+"Pizza, Kirkland Signature thin crust pepperoni",4 ct,4 ct,11.49,$0.16 per oz or $2.87 each
+"Pizza, Sabatasso's Gluten Free",3 ct,3 ct,15.99,$5.33 each
+"Pizza, Sabatasso's Single Pizza Variety",12 ct,12 ct,9.99,$0.83 each
+"Pizza, Sonoma Gluten Free BBQ Chicken",2 @ 19 oz,2 ct,13.49,$0.36 per oz or $6.75 each
+"Pot Pie, Marie Callender's chicken",8 ct,8 ct,11.59,"$0.15 per oz, or $1.45 each"
+"Pot Stickers, Ling Ling All Natural",4.2 lbs,4.2 lbs,10.69,$2.52 per lb
+"Quiche, Kellogg's Crustless",8 ct,8 ct,11.69,$1.46 each
+"Ravioli, Pasta Prima",1 bag,3.5 lbs,9.99,$2.85 per lb
+"Salmon, Copper River Seafoods Wild Alaskan marinated",1 bag,2.25 lbs,15.69,$6.97 per lb
+"Salmon, Kirkland Signature Wild Sockeye",1 bag,3 lbs,28.99,$9.66 per lb
+"Salmon, Kirkland Signature, Atlantic, farmed",1 bag,3 lbs,24.99,$8.33 per lb
+"Salmon, Trident Wild Salmon Burgers",12 ct,3 lbs,15.99,"$5.33 per lb, or $1.33 each"
+"Sausage Patties, MorningStar",32 ct,32 ct,13.99,$0.44 each
+"Sausage Patties, Tyson all natural",4 lbs,4 lbs,12.99,$3.25 per lb
+"Shrimp, Kirkland Signature, 21/25 ct, Raw, Farm Raised",1 bag,2 lbs,17.79,$8.90 per lb
+"Shrimp, Kirkland Signature, 31/40 ct Raw, Farm Raised",1 bag,2 lbs,13.99,$7 per lb
+"Shrimp, Kirkland Signature, 31/40 ct, Cooked, Farm Raised",1 bag,2 lbs,15.99,$8.00 per lb
+"Shrimp, Kirkland Signature, 50/70 Cooked, Farm Raised",1 bag,2 lbs,14.99,$7.50 per lb
+"Shrimp, Kirkland Signature, Panko Butterfly",1 bag,2.5 lbs,19.99,$8.00 per lb
+"Spring Rolls, Royal Asia vegetable",1 box,48 oz,9.99,$0.21 per oz
+"Strawberries, Kirkland Signature, whole",1 bag,6 lbs,10.99,$1.83 per lb
+"Tamales, Nuevo Grill Handmade Beef",10 @ 5 oz,50 oz,11.59,$0.23 per oz or $1.16 each
+"Taquitos, Delimex Beef",50 @ 1.2 oz,60 oz,11.99,$0.24 each
+"Teriyaki Bowls, Oven Roasted Chicken",6 @ 12.5 oz,75 oz,10.99,$1.83 each
+"Tilapia, Kirkland Signature, loins, farmed",1 bag,2.5 lbs,13.99,$5.60 per lb
+"Tilapia, Trident Panko Breaded",1 bag,3 lbs,12.99,$4.33 per lb
+"Turkey, Kirkland Signature Patties",12 ct,4 lbs,10.99,$2.75 per lb
+"Uncrustables, Smuckers peanut butter and grape",18 @ 2.8 oz,50.4 oz,10.99,"$0.22 per oz, or $0.92 each"
+"Vegetables, Kirkland Signature Stir Fry, organic",1 bag,5.5 lbs,7.39,$1.34 per lb
+"Vegetables, Kirkland Signature Normandy, organic",1 bag,5.5 lbs,8.79,$1.60 per lb
+"Veggie burgers, Morningstar Farms",1 box,16 @ 13.5 oz,12.89,$0.23 per oz or $0.80 each
+"Waffles, Kellogg's Eggo Homestyle",1 box,72 ct,9.99,$0.14 each
+Yakisoba Stir Fry,6 @ 9oz,54 oz,11.49,$3.40 per lb
+A-1 Steak Sauce,4 @ 10oz,40 oz,9.79,$0.25 per oz
+"Almond Butter, Kirkland Signature",27 oz,27 oz,7.99,$0.30 per oz
+"Almonds, Blue Diamond Smokehouse",1 bag,38 oz,14.69,$6.19 per lb
+"Almonds, Kirkland Signature, dry roasted",1 bag,2.5 lbs,10.99,$4.40 per lb
+"Almonds, Kirkland Signature, marcona",1 bag,17.63 oz,12.99,$11.79 per lb
+"Applesauce, Treetop, organic",4 @ 47.25oz,189 oz,8.39,$0.04 per oz
+"Avocado oil, Chosen Foods",1 bottle,1 liter,9.79,$9.79 per liter
+"Bacon crumbles, Kirkland Signature",20 oz,20 oz,9.99,$0.50 per oz
+"Balsamic vinegar, Kirkland Signature",1 bottle,1 liter,10.99,$0.33 per oz
+"Barbecue Sauce, Sweet Baby Ray's",2 @ 40oz,80 oz,5.59,$0.07 per oz
+"Bars, Belvita Breakfast Biscuit",1 box,25 ct,10.59,$0.42 each
+"Bars, Caveman Dark Chocolate Variety",1 box,20 ct,17.99,$0.90 each
+"Bars, Clif Bar Organic Nut Filled",1 box,18 ct,19.89,$1.11 each
+"Bars, Clif Bar Organic Zbar variety",1 box,36 ct,17.49,$0.49 each
+"Bars, Clif Bar Variety Pack",1 box,24 ct,19.89,$0.83 each
+"Bars, Fiber One Oats and Chocolate",1 box,36 ct,10.99,$0.31 each
+"Bars, Kashi Chocolate Almond Sea Salt",1 box,35 ct,12.79,$0.37 each
+"Bars, Kirkland Signature Nut Bars",1 box,30 ct,16.99,$0.57 each
+"Bars, Kirkland Signature Soft and Chewy Granola",1 box,60 ct,8.79,$0.15 each
+"Bars, Nature's Bakery Fig Bars",1 box,36 ct,11.59,$0.32 each
+"Bars, Nature Valley Chewy Trail Mix Bars",1 box,48 ct,12.79,$0.27 each
+"Bars, Nature Valley Oats 'N Honey Granola 2 Bar Pouches",1 box,49 ct,12.79,$0.26 each
+"Bars, Nature Valley Protein Chewy",1 box,30 ct,13.69,$0.46 each
+"Bars, Nature Valley Sweet & Salty",1 box,48 ct,12.79,$0.27 each
+"Bars, Nugo Nutrition Bars, variety",1 box,24 ct,18.49,$0.77 each
+"Bars, Nutri-Grain Cereal Bar",1 box,48 ct,12.49,$0.26 each
+"Bars, Premier Protein protein bars, variety",1 box,22 ct,14.99,$0.68 each
+"Bars, Pure Protein",1 box,21 ct,18.99,$0.91 each
+"Bars, Quaker Chewy Granola Variety",1 box,60 ct,8.89,$0.15 each
+"Bars, Zone Perfect",1 box,24 ct,16.99,$0.71 each
+"Bread, Dave's Killer Organic",2 @ 27 oz,54 oz,7.59,"$0.14 pr oz, or $3.80 each"
+"Bread, Dave's Killer Organic Powerseed Thin",2 @ 24 oz,48 oz,7.59,"$0.16 per oz, or $3.80 each"
+"Bread, Dave's Killer Organic Sprouted",2 @ 22 oz,44 oz,7.59,"$0.17 per oz, or $3.80 each"
+"Bread, Essential Baking Organic Sourdough",3 @ 18.2 oz,54.6 oz,7.99,"$0.15 per oz, or $2.66 each"
+"Bread, Franz Brioche Hamburger Buns",12 ct,12 ct,3.59,$0.30 each
+"Bread, Franz Giant White",2 @ 32 oz,64 oz,3.99,"$0.06 per oz, or $2 each"
+"Bread, Franz Gluten Free Whole Grain White",2 @ 20 oz,40 oz,8.99,"$0.23 per oz, or $4.50 each"
+"Bread, Franz, Great Seed Organic",2 @ 26 oz,52 oz,6.49,"$0.13 per oz, or $3.25 each"
+"Bread, Hamburger Buns, sesame",24 ct,24 ct,3.89,$0.16 each
+"Bread, Hot Dog Buns",24 ct,24 ct,3.29,$0.14 each
+"Bread, Kirkland Signature Multigrain",2 @ 28 oz,56 oz,4.39,"$0.08 per oz, or $2.20 each"
+"Bread, Kirkland Signature Raisin",2 @ 24 oz,48 oz,6.59,"$0.14 per oz, or $3.30 each"
+"Bread, Kirkland Signature Sandwich Rolls",18 ct,18 ct,3.49,$0.19 each
+"Bread, Kirkland Signature Split Top Wheat",2 @ 32 oz,64 oz,3.99,"$0.06 per oz, or $2 each"
+"Bread, Milton's Multigrain Muffins",12 ct,12 ct,3.99,$0.33 each
+"Bread, Ol Time White Bread",2 ct,2 ct,2.99,$1.50 each
+"Bread, Oroweat 100% Whole Wheat",2 @ 32 oz,64 oz,5.79,"$0.09 per oz, or $2.90 each"
+"Bread, Oroweat 100% Whole Wheat Sandwich Thins",24 ct,24 ct,5.99,$0.25 each
+"Bread, Oroweat All Natural Buttermilk",2 @ 32,64 oz,5.79,$0.09 per oz or $2.90 each
+"Bread, Oroweat Oatnut",2 @ 32 oz,64 oz,5.79,"$0.09 per oz, or $2.90 each"
+"Bread, Portland French Pub Bun",12 ct,12 ct,3.99,$0.33 each
+"Bread, Portland French Sourdough",32 oz,32 oz,3.79,$0.12 per oz
+"Bread, Thomas English Muffins",24 ct,24 ct,6.79,$0.28 each
+"Breakfast Essentials, Carnation",1 box,40 ct,12.59,$0.25 per oz
+"Broth, Organic Better than Bouillon 16 oz, Beef, organic",1 jar,16 oz,6.39,$0.40 per oz
+"Broth, Organic Better than Bouillon 16 oz, Chicken, organic",1 jar,16 oz,5.99,$0.37 an oz
+"Cashews, Kirkland Signature",1 jar,2.5 lb,18.99,$7.60 per lb
+"Candy, Black Forest Gummy Bears",1 bag,6 lbs,8.69,$1.45 per lb
+"Candy, Brookside Dark Chocolate Acai Blueberry",1 bag,32 oz,9.99,$0.31 per oz
+"Candy, Hershey Nestle M&M All Chocolate Bag",90 oz,90 oz,16.49,$2.93 per lb
+"Candy, Hi Chew Fruit Chews",30 oz,30 oz,8.59,$0.29 per oz
+"Candy, Kirkland Signature Chocolate Caramel Macadamia Clusters",1 jar,2 lb,13.99,$6.99 per lb
+"Candy, Kirkland Signature Chocolate Raisins",1 jar,54 oz,9.99,$2.96 per lb
+"Candy, Kirkland Signature Dark Chocolate Almonds",1 jar,32 oz,9.49,$0.30 per oz
+"Candy, Kirkland Signature Dark Chocolate Mangos",1 jar,19.4 oz,8.99,$0.46 per oz
+"Candy, Kirkland Signature Funhouse Treats",5.75 lbs,5.75 lbs,13.99,$2.43 per lb
+"Candy, Kirkland Signature Gourmet Jelly Beans",1 jar,64 oz,13.99,$3.50 per lb
+"Candy, Kirkland Signature Milk Chocolate Almonds",1 jar,3 lbs,11.99,$4.00 per lb
+"Candy, Kirkland Signature Mini Chocolate Variety",5 lbs,5 lbs,15.99,$3.20 per lb
+"Candy, Lemoncello Almonds",24 oz,24 oz,8.99,$0.38 per oz
+"Candy, M&M Mars Plain Peanut Chocolate",56 oz,56 oz,8.99,$2.60 per lb
+"Candy, Mark Avenue Dark Chocolate Coconut Almonds",1 jar,32 oz,9.69,$4.85 per lb
+"Candy, Red Vines, American Licorice",1 bucket,5.5 lbs,8.99,$1.60 per lb
+"Canned, Artichokes, whole in oil, Kirkland Signature",2 @ 33 oz,66 oz,10.79,$0.16 per oz
+"Canned, Baked Beans, Bush's Original",6 @ 28 oz,168 oz,10.49,"$0.06 per oz, or $1.75 per can"
+"Canned, Black Beans, S&W organic",8 @ 15 oz,120 oz,6.79,"$0.06 per oz, or $0.85 per can"
+"Canned, Chunk Chicken Breast, Kirkland Signature",6 @ 12.5 oz,75 oz,9.99,"$0.13 per oz, or $1.66 per can"
+"Canned, Clams, Seawatch chopped",2 @ 51 oz,102 oz,17.99,$0.18 per oz
+"Canned, Corn, Kirkland Signature",12 @ 15 oz,180 oz,6.99,"$0.04 per oz, or $0.58 per can"
+"Canned, Fruit Cocktail, S & W",8 @ 15 oz,120 oz,9.99,"$0.08 per oz, or $1.25 per can"
+"Canned, Green Beans, Kirkland Signature",12 @ 14.5 oz,174 oz,7.69,"$0.04 per oz, or $0.64 per can"
+"Canned, Kidney Beans, S&W organic",8 @ 15.25 oz,122 oz,7.39,"$0.06 per oz, or $0.92 per can"
+"Canned, Mushrooms, Festival organic",12 @ 4 oz,48 oz,9.59,"$0.20 per oz, or $0.80 per can"
+"Canned, Pulled Pork, Harvest Creek",4 @ 12 oz,48 oz,6.99,"$0.15 per oz, or $1.75 per can"
+"Canned, Roast Beef, Kirkland Signature",4 @ 12 oz,48 oz,12.99,"$0.27 per oz, or $3.25 per can"
+"Canned, Salmon, Kirkland Signature, Wild Pink",6 @ 6 oz,36 oz,12.99,"$0.36 per oz, or $2.17 per can"
+"Canned, Salmon, Kirkland Signature, Wild Sockeye",3 @ 6 oz,18 oz,10.89,"$0.60 per oz, or $3.63 per can"
+"Canned, Sardines, in olive oil",6 @ 4.375 oz,26.25 oz,9.99,"$0.38 per oz, or $1.67 per can"
+"Canned, Spam, 25% less sodium",8 @ 12 oz,96 oz,19.99,$0.21 per oz
+"Canned, Tomatoes, paste, Kirkland Signature organic",12 @ 6oz,72 oz,6.79,"$0.09 per oz, or $0.57 per can"
+"Canned, Tomatoes, sauce, Kirkland Signature organic",12 @ 15oz,180 oz,7.99,"$0.04 per oz, or $0.66 per can"
+"Canned, Tomatoes, sliced and stewed, Kirkland Signature, organic",8 @ 14.5 oz,116 oz,6.49,"$0.06 per oz, or $0.81 per can"
+"Canned, Tuna, Chicken of the Sea solid white albacore in water",8 @ 7 oz,56 oz,12.99,"$0.23 per oz, or $1.62 per can"
+"Canned, Tuna, Kirkland Signature chunk light skip jack tuna in water",12 @ 7 oz,84 oz,13.49,"$0.16 per oz, or $1.12 per can"
+"Canned, Tuna, Kirkland Signature solid white albacore in water",8 @ 7 oz,56 oz,12.99,"$0.23 per oz, or $1.62 per can"
+"Canned, Tuna, Wild Planet Albacore Pole and Troll Caught",6 @ 5 oz,30 oz,14.99,"$0.50 per oz, or $2.50 per can"
+"Canned, Vienna Sausage, Libby's",18 @ 4.6 oz,82.8 oz,7.99,$0.44 per can
+"Canola oil, Kirkland Signature",2 @ 3 qts,1.5 gal,8.49,$1.42 per qt
+"Canola oil, Kirkland Signature cooking spray",2 @ 17 oz,34 oz,4.99,$0.15 per oz
+"Cereal, Annie's Organic Cocoa Bunnies",27.25 oz,27.25 oz,7.89,$0.29 per oz
+"Cereal, Cinnamon Toast Crunch",2 bags,49.5 oz,6.99,$0.14 per oz
+"Cereal, General Mills Cheerios",2 boxes,40.7 oz,6.39,$0.16 per oz
+"Cereal, General Mills Honey Nut Cheerios",1 box,55 oz,7.99,$0.15 per oz
+"Cereal, General Mills Lucky Charms",1 box,46 oz,7.29,$0.16 per oz
+"Cereal, General Mills Multi Grain Cheerios",2 boxes,37.5 oz,6.99,$0.19 per oz
+"Cereal, Kashi Go-Lean Crunch",1 box,51 oz,5.99,$0.12 per oz
+"Cereal, Kellogg's Frosted Flakes",1 box,61.9 oz,7.59,$0.12 per oz
+"Cereal, Kellogg's Frosted Mini Wheats",2 bags,70 oz,8.69,$0.12 per oz
+"Cereal, Kellogg's Raisin Bran",2 bags,76.5 oz,8.49,$0.11 per oz
+"Cereal, Kellogg's Special K Red Berries",1 box,43 oz,8.99,$0.21 per oz
+"Cereal, Kirkland Signature Organic Ancient Grains",1 bag,35.3 oz,6.99,$0.21 per oz
+"Cereal, Nature's Path Organic Flax Plus Pumpkin Granola",1 box,35.3 oz,7.69,$0.22 per oz
+"Cereal, Nature's Path Organic Granola Love Crunch",1 box,26.5 oz,6.99,$0.26 per oz
+"Cereal, Post Honey Bunches of Oats",2 bags,48 oz,6.59,$0.14 per oz
+"Cereal, Quaker Oatmeal Squares",1 box,58 oz,7.39,$0.13 per oz
+"Cereal, Quaker Simply Granola",69 oz,69 oz,7.99,$0.12 per oz
+"Cheese, Parmesan, Kraft grated",2 @ 20 oz,40 oz,12.99,$0.33 per oz
+"Cheese, Velveeta",2 @ 2lbs,4 lbs,9.99,$2.50 per lb
+"Chia Seeds, Nature's Path, organic",1 bag,32 oz,7.49,$0.23 per oz
+"Chips, Cape Cod Kettle",1 bag,30 oz,6.49,$0.22 per oz
+"Chips, Food Should Taste Good Multigrain",1 bag,24 oz,5.99,$0.25 per oz
+"Chips, Frito Lay Ruffles",1 bag,28 oz,5.49,$0.20 per oz
+"Chips, Frito Lay Variety",54 ct @ 1 oz,54 ct,12.99,$0.24 each
+"Chips, Frito Lay Variety",30 ct @ 1.75 oz,30 ct,11.99,$0.40 each
+"Chips, Frito Lay Scoops",1 bag,32 oz,5.49,$0.17 per oz
+"Chips, Kirkland Signature Kettle Krinkle Cut",1 bag,32 oz,4.59,$0.14 per oz
+"Chips, Kirkland Signature Peanut Butter Pretzels",1 bag,52 oz,8.59,$0.17 per oz
+"Chips, Kirkland Signature Tortilla Strips",1 bag,3 lbs,3.59,$0.08 per oz
+"Chips, Late July Multigrain organic",1 bag,24 oz,5.99,$0.25 per oz
+"Chips, Pirate's Booty White Cheddar",1 bag,18 oz,5.89,$0.33 per oz
+"Chips, Pretzel Crisps Dark Chocolate",1 bag,22 oz,7.59,$0.35 per oz
+"Chips, Pretzel Crisps, organic",1 bag,28 oz,6.89,$0.25 per oz
+"Chips, Schultz Mini-Pretzels",1 bag,6 lbs,5.99,$0.06 per oz
+"Chips, Sensible Portions Veggie Straws",1 bag,25 oz,5.99,$0.24 per oz
+"Chips, Stacy's Pita, organic",1 bag,28 oz,6.99,$0.25 per oz
+"Chips, SunChips variety",30 @ 1.5 oz,30 ct,11.99,$0.40 each
+"Chips, SunChips variety, organic",21 oz,21 oz,6.99,$0.33 per oz
+"Chips, Tim's Cascade Maui Onion",1 bag,32 oz,5.49,$0.17 per oz
+"Chocolate syrup, Hershey's Simply",2 @ 48 oz,96 oz,8.59,$0.09 per oz
+"Coconut oil, Kirkland Signature organic",84 oz,84 oz,18.99,$0.23 per oz
+"Coffee creamer, Nestle Coffee-Mate, shelf stable",1 can,56 oz,6.29,$0.11 per oz
+"Coffee filters, Drip machine",700 ct,700 ct,2.99,$0.004 each
+"Coffee, Ground, Folger's, Classic Roast",1 can,3 lbs,9.99,$3.33 per lb
+"Coffee, Ground, Kirkland Signature 100% Colombian fine grind",1 can,3 lbs,9.99,$3.33 per lb
+"Coffee, Ground, Kirkland Signature, Arabica, Decaf",1 can,3 lbs,10.99,$3.66 per lb
+"Coffee, Ground, Maxwell House International Cafe, French Vanilla",1 can,29 oz,5.89,$0.20 per oz
+"Coffee, Ground, Pleasant Hill Farms 100% Arabica Restaurant Blend",1 can,5 lbs,23.99,$4.80 per lb
+"Coffee, Ground, Yuban Gold 100% Arabica",1 can,44 oz,6.99,$2.54 per lb
+"Coffee, Instant, Folger's",1 can,16 oz,8.99,$8.99 per lb
+"Coffee, Instant, Starbucks Via Columbian",1 box,26 ct,14.99,$0.58 each
+"Coffee, Instant, Taster's Choice",1 can,12 oz,10.99,$0.92 per oz
+"Coffee, K-Cups, Keurig Green Mountain Variety",1 box,72 ct,33.99,$0.47 each
+"Coffee, K-Cups, Kirkland Signature, Breakfast Blend",1 box,120 ct,39.99,$0.33 each
+"Coffee, K-Cups, Kirkland Signature, Pacific Bold",1 box,120 ct,39.99,$0.33 each
+"Coffee, K-Cups, Starbucks House Blend",1 box,72 ct,42.99,$0.60 each
+"Coffee, K-Cups, Tully's, Dark Roast",1 box,100 ct,46.99,$0.47 each
+"Coffee, K-Cups, Tully's, Hawaiian Blend",1 box,100 ct,46.99,$0.47 each
+"Coffee, Single serve, San Francisco Bay French Roast",1 box,100 ct,29.99,$0.30 each
+"Coffee, Whole Bean, Kirkland Signature by Starbucks, Espresso Fair Trade",1 bag,2 lbs,10.59,$5.30 per lb
+"Coffee, Whole Bean, Kirkland Signature by Starbucks, Fair Trade Decaf",1 bag,2 lbs,10.49,$5.50 per lb
+"Coffee, Whole Bean, Kirkland Signature by Starbucks, Fair Trade House Blend",1 bag,2 lbs,9.99,$5.00 per lb
+"Coffee, Whole Bean, Kirkland Signature, Colombian Supremo",1 bag,3 lbs,14.99,$5.00 per lb
+"Coffee, Whole Bean, Kirkland Signature Sumatra French Roast",1 bag,3 lbs,17.49,$5.83 per lb
+"Coffee, Whole Bean, San Francisco Bay, Organic",1 bag,3 lbs,17.49,$5.83 per lb
+"Coffee, Whole Bean, Starbucks French Roast",1 bag,2.5 lbs,19.99,$8.00 per lb
+"Cookies, Famous Amos Chocolate Chip Cookies",1 box,42 ct,12.99,$0.31 each
+"Cookies, Kellogg's Rice Krispie Treats",1 box,54 ct,10.99,$0.20 each
+"Cookies, Thinsters Chocolate Chip Cookie Thins",1 box,16 oz,6.89,$0.43 per oz
+"Cookies, Oreos",10 packs,52.5 oz,8.49,$0.16 per oz
+"Cookies, Sugar Bowl Bakery Petite Palmiers",1 box,32 oz,6.99,$0.22 per oz
+"Corn oil, Mazola",10 qt,10 qt,17.99,$1.80 per qt
+"Crackers, 34 Degree Crispbread",4 @ 4.5 oz,18 oz,7.89,$0.49 per oz
+"Crackers, Annie's Homegrown Bunny Snacks",1 box,36 ct,11.99,$0.33 each
+"Crackers, Bamboo Lane Crunchy Rice Rollers",4 ct,4 ct,6.99,$1.75 each
+"Crackers, Cello Parmesan Whisps",1 bag,9.5 oz,9.99,$1.05 per oz
+"Crackers, Crunch Master 4 Cheese Toasted Sesame Rice Crackers",6 packs @ 3.5 oz,21 oz,7.99,$0.38 an oz or $1.33 each
+"Crackers, Kirkland Signature Animal Crackers, organic",1 jar,64 oz,9.89,$0.16 per oz
+"Crackers, Mary's Gone Crackers, organic",1 box,20 oz,8.49,$0.42 per oz
+"Crackers, Milton's Gluten Free Sea Salt",1 box,20 oz,7.89,$0.40 per oz
+"Crackers, Nabisco Honey Maid Graham Crackers",4 boxes,57.6 oz,7.69,$0.13 per oz
+"Crackers, Nabisco Ritz Crackers",61.65 oz,61.65 oz,8.59,$0.14 per oz
+"Crakcers, Nabisco Triscuits, organic",36 oz,36 oz,8.99,$0.25 per oz
+"Crackers, Nabisco Wheat Thins",2 @ 20 oz,40 oz,7.49,$0.19 per oz
+"Crackers, Pepperidge Farm Goldfish",45 @ 1 oz,45 ct,9.99,$0.22 each
+"Crackers, Pepperidge Farm Goldfish",58 oz,58 oz,8.99,$0.16 per oz
+"Crackers, Ritz Handi-Snacks Crackers N Cheese",30 ct,30 ct,8.49,$0.28 each
+"Crackers, RW Garcia 3 Seed Sweet Potato",2 @ 15 oz,30 oz,9.69,$0.32 per oz
+"Crackers, Snapea Crisps Harvest Snacks",20 oz,20 oz,6.79,$0.34 per oz
+"Crackers, Sunshine Cheez-Its",2 bags,48 oz,7.99,$0.17 per oz
+"Croutons, Fresh Gourmet Roasted Garlic",32 oz,32 oz,5.49,$0.17 per oz
+"Dried fruit, Bare Fruit Organic Fuji Apple Chips",14 oz,14 oz,9.89,$0.71 per oz
+"Dried fruit, Kirkland Signature Dried Blueberries",20 oz,20 oz,13.99,$0.70 per oz
+"Dried fruit, Kirkland Signature Dried Tart Cherries",20 oz,20 oz,7.99,$0.40 per oz
+"Dried fruit, Kirkland Signature Sunsweet Dried Plums",56 oz,56 oz,8.99,$0.16 per oz
+"Dried fruit, Made in Nature Organic Deglet Noor Dates",28 oz,28 oz,6.99,$0.25 per oz
+"Dried fruit, Made in Nature Organic Mangoes",28 oz,28 oz,17.99,$0.64 per oz
+"Dried fruit, Made in Nature Organic Smyrna Figs",40 oz,40 oz,9.99,$0.25 per oz
+"Dried fruit, Ocean Spray Craisins",64 oz,64 oz,8.89,$0.14 per oz
+"Dried fruit, Philippine Dried Mangoes",30 oz,30 oz,13.99,$0.47 per oz
+"Dried fruit, Philippine Dried Young Coconut",18 oz,18 oz,8.99,$0.50 per oz
+"Dried fruit, Sun-maid Raisins, organic",2 @ 2lbs,4 lbs,8.99,$0.14 per oz
+"Evaporated Milk, Carnation",12 @ 12 oz,144 oz,11.99,$0.08 per oz or $1.00 per can
+Frank's Red Hot Sauce,2 @ 25 oz,50 oz,5.99,$0.12 per oz
+"Fruit snacks, Fruit by the Foot",1 box,48 ct,12.59,$0.26 each
+"Fruit snacks, Kellogg's Despicable Me variety",1 box,80 ct,9.99,$0.13 each
+"Fruit snacks, Kirkland Signature organic",1 box,72 ct,14.59,$0.20 each
+"Fruit snacks, Stretch Island 100% natural fruit",1 box,48 ct,10.59,$0.22 each
+"Fruit snacks, Tree Top",1 box,80 ct,10.99,$0.14 each
+"Gravy, McCormick Brown Gravy mix",1 jar,21 oz,3.89,$0.19 per oz
+"Gravy, McCormick Poultry mix",1 jar,18 oz,3.99,$0.22 per oz
+"Gum and Mints, Altoids",12 ct,12 ct,13.99,$1.17 per pack
+"Gum and Mints, Dentyne Ice",12 @ 16 ct,192 ct,7.49,$0.62 per pack
+"Gum and Mints, Extra",20 @ 15 ct,300 ct,10.99,$0.55 per pack
+"Gum and Mints, Orbit Mint Variety",18 @ 14 ct,252 ct,10.99,$0.61 per pack
+"Gum and Mints, Orbit Sweetmint",20 @ 14 ct,280 ct,11.79,$0.59 per pack
+"Gum and Mints, Trident Original",14 @ 18 ct,252 ct,8.49,$0.61 per pack
+"Gum and Mints, Trident White Peppermint",12 @ 16 ct,192 ct,7.29,$0.61 per pack
+"Gum and Mints, Wrigley's Eclipse Big E",4 @ 60 ct,240 ct,9.49,$2.37 per pack
+"Gum and Mints, Wrigley's Extra Mint Variety",18 @ 15 ct,270 ct,9.49,$0.53 per pack
+"Gum and Mints, Wrigley's Mint Variety",15 @ 15 ct,225 ct,10.99,$0.73 per pack
+"Hash browns, Golden Grill Russet",8 @ 4.2 oz,33.6 oz,6.59,$0.20 per oz
+"Honey, Kirkland Signature",1 bottle,5 lbs,10.99,$0.14 per oz
+"Honey, Kirkland Signature organic bears",3 @ 24 oz,72 oz,14.99,$0.21 per oz
+"Honey, Naked Wild Raw Washington",40 oz,40 oz,9.89,$0.25 per oz
+"Hot sauce, Tabasco",12 oz,12 oz,4.99,$0.42 per oz
+"Jam, Columbia Empire Farms Marion Blackberry Fruit Spread",2 @ 28 oz,56 oz,6.99,$0.13 per oz
+"Jam, Walls Berry Organic Cherry Pomegranate Blueberry spread",1 jar,42 oz,5.99,$0.14 per oz
+"Jerky, Golden Island Korean BBQ Pork",1 bag,14.5 oz,11.89,$0.82 per oz
+"Jerky, Oberto Beef",2 @ 9 oz,18 oz,14.99,$0.83 per oz
+"Jerky, Oberto Beef Pepperoni sticks",24 oz,24 oz,12.99,$0.54 per oz
+"Jerky, Oberto Teriyaki Turkey, all natural",2 @ 9 oz,18 oz,14.99,$0.83 per oz
+"Ketchup, Heinz",3 @ 44 oz,132 oz,6.99,$0.05 per oz
+"Lemon Juice, Realemon",2 @ 48 oz,96 oz,5.49,$0.06 per oz
+"Mac and Cheese, Annies, Organic",12 @ 6 oz,72 oz,13.39,$1.12 per box
+"Mac and Cheese, Kraft",18 @ 7.25 oz,130.5 oz,14.69,$0.82 per box
+"Mac and Cheese, Kraft Easy Mac",12 @ 2.05 oz,12 ct,9.29,$0.77 each
+"Macadamia nuts, Kirkland Signature dry roasted",1 jar,24 oz,16.99,$11.33 per lb
+"Madras Lentils, Tasty Bite",6 @ 10 oz,60 oz,9.99,$1.67 each
+"Mandarin Oranges, Festival",12 @ 11 oz,132 oz,7.39,$0.06 per oz
+"Maple Syrup, Kirkland Signature Organic",1 ltr,1 ltr,10.99,$0.33 per oz
+"Maple Syrup, Log Cabin Original",2 @ 64 oz,128 oz,6.99,$0.06 per oz
+"Mashed potatoes, Honest Earth creamy",14 @ 6.4 oz,89.6 oz,10.39,$0.12 per oz
+"Mayonnaise, Best Foods",1 jug,64 oz,6.99,$0.11 per oz
+"Mayonnaise, Chosen Foods Avocado Oil",24 oz,24 oz,8.59,$0.36 per oz
+"Mayonnaise, Kirkland Signature",1 jug,64 oz,4.59,$0.07 per oz
+"Mixed nuts, Hoody's Green Tea blend",1 jug,32 oz,13.89,$4.34 per oz
+"Mixed nuts, Kirkland Signature Extra Fancy",1 jug,2.5 lbs,16.99,$6.80 per lb
+"Mixed nuts, Kirkland Signature snacking nuts",30 @ 1.6 oz,48 oz,16.49,$0.55 each
+"Mixed nuts, Kirkland Signature unsalted",1 jug,2.5 lbs,17.89,$7.16 per lb
+Mr. Yoshida's Gourmet Sauce,1 jug,86 oz,6.69,$0.08 per oz
+"Mustard, French's",2 @ 30 oz,60 oz,4.89,$0.08 per oz
+"Mustard, Grey Poupon",2 @ 16 oz,32 oz,6.99,$0.22 per oz
+Nutella and Go,12 ct,12 ct,11.99,$1 each
+Nutella hazelnut spread,2 @ 33.5 oz,67 oz,11.99,$0.18 per oz
+"Oatmeal, Nature's Path Organic Hot Variety Pack",32 ct,32 ct,9.39,$0.29 each
+"Oatmeal, Quaker instant, variety pack",52 ct,52 ct,9.79,$0.19 each
+"Oatmeal, Quaker, old fashioned",10 lbs,10 lbs,8.29,$0.05 per oz
+"Olive oil, Bel'osio extra light tasting",2 @ 2 liters,4 liters,18.99,$4.75 per liter
+"Olive oil, extra virgin, California Olive Ranch Olio Neuvo",1 bottle,1 liter,9.49,$9.49 per liter
+"Olive oil, extra virgin, Kirkland Signature",1 bottle,2 liters,11.99,$6.00 per liter
+"Olive oil, extra virgin, organic, Kirkland Signature",1 bottle,2 liters,13.99,$7.00 per liter
+"Olive oil, extra virgin, Terra Delyssa organic",2 @ 1 liter,2 liters,13.79,$6.90 per liter
+"Olive oil, Kirkland Signature",2 @ 3 liters,6 liters,27.99,$4.67 per liter
+"Olives, Black Pearl, extra-large pitted",8 @ 6 oz,48 oz,9.79,$0.20 per oz
+"Olives, Kalamata, pitted Tassos",1 jar,52.91 oz,7.99,$0.15 per oz
+"Olives, Kirkland Signature Spanish Queen",2 @ 21oz,42 oz,8.99,$0.21 per oz
+"Olives, Lindsay California Sliced",33 oz,33 oz,4.99,$0.15 per oz
+"Olives, Mezetta Pitted Castelvetrano",46 oz,46 oz,7.99,$0.17 per oz
+"Olives, Tassos Stuffed Olives",35.27 oz,35.27 oz,5.79,$0.16 per oz
+"Pasta Sauce, Bertolli Organic",4 @ 24 oz,96 oz,8.99,$0.09 per oz
+"Pasta Sauce, Kirkland Signature Organic Marinara",3 @ 32 oz,96 oz,9.99,$0.10 per oz
+"Pasta sauce, Prego Heartsmart",2 @ 67 oz,134 oz,6.99,$0.05 per oz
+"Pasta, Country Pasta Homemade style egg",4 lb,4 lb,7.99,$2.00 per lb
+"Pasta, Garofalo Assorted, organic",6 @ 1.1 lb,6.6 lbs total,8.99,$1.36 per lb
+"Pasta, Garofalo Spaghetti, organic",8 @ 1.1 lb,8.8 lbs total,9.99,$1.14 per lb
+"Pasta, Truroots Penne, organic and gluten fre",2.2 lbs,2.2 lbs,6.99,$3.18 per lb
+"Peaches, Kirkland Signature Sliced",4 @ 24 oz,96 oz,9.99,$0.10 per oz
+"Peanut Butter, Adams Natural Crunchy",1 @ 80 oz,80 oz,8.39,$0.11 per oz
+"Peanut Butter, Jif",2 @ 48 oz,96 oz,9.99,$0.10 per oz
+"Peanut Butter, Kirkland Signature Creamy Organic",2 @ 28 oz,56 oz,9.99,$0.18 per oz
+"Peanuts, Kirkland Signature Super Extra Large",2.5 lbs,2.5 lbs,6.69,$2.68 per lb
+"Pears, S&W Halves Natural Style",8 @ 15 oz,120 oz,9.49,$0.08 per oz
+"Pecans, Hoody's Deep South Praline",40 oz,40 oz,13.79,$5.52 per lb
+"Pepperoncini, Mezzetta",2 @ 42 oz,84 oz,6.49,$0.08 per oz
+"Pickles, Farman Cucumber Chips",64 oz,64 oz,3.99,$0.06 per oz
+"Pickles, Nalley, Whole Baby Dill",2 @33.8 oz,67.6 oz,4.39,$0.06 per oz
+"Pickles, Paisley Farm Sweet Pickled Beets",2 @ 35.5 oz,71 oz,8.49,$0.12 per oz
+"Pickles, Princess Pickled Asparagus",2 @ 33 oz,66 oz,9.99,$0.15 per oz
+"Pineapple, Dole Tropical Chunks",6 @ 20 oz,120 oz,7.99,$0.07 per oz
+"Pine nuts, Kirkland Signature, organic",1 bag,24 oz,23.99,$15.99 per lb
+"Pinto beans, C & F, dried",1 bag,25 lbs,14.49,$0.58 per lb
+"Pistachios, Kirkland Signature",1 bag,3 lbs,14.99,$4.99 per lb
+"Pistachios, Wonderful Salt and Pepper",1 bag,3 lbs,16.89,$5.63 per lb
+"Pistachios, Wonderful Shelled",1 bag,24 oz,15.49,$10.33 per lb
+"Pizza crust, Boboli Party Pack",8 ct,8 ct,8.99,$1.12 each
+"Popcorn, Cosmos Creations Salted Caramel Corn",1 bag,25 oz,5.99,$0.24 per oz
+"Popcorn, Cretor's Cheddar and Caramel Kettle Corn",1 bag,26 oz,5.89,$0.23 per oz
+"Popcorn, Kirkland Signature Movie Theater Butter",44 @ 3.3 oz,145.2 oz,9.69,$0.22 per bag
+"Popcorn, Orville Redenbacher kernels",1 bag,8 lbs,11.99,$1.50 per lb
+"Popcorn, Skinny Pop",1 bag,14 oz,5.39,$0.39 per oz
+"Protein shakes, Cellucor C4 Pre Workout",2 @ 30 servings,60 servings,39.99,$0.68 each
+"Protein shakes, Cytosport 100% Whey powder",6 lbs,6 lbs,39.99,$0.42 per oz
+"Protein shakes, Fabuless Fit",20 servings,20 servings,34.99,$1.75 each
+"Protein shakes, Muscle Milk Light",18 @ 11 oz,198 oz,19.99,$1.11 each
+"Protein shakes, Muscle Pharm",5 lbs,5 lbs,37.99,$0.58 each
+"Protein shakes, Optimum Nutrition Gold Standard 100% Whey",60 servings,60 servings,29.99,$0.50 each
+"Protein shakes, Optimum Nutrition Gold Standard 100% Whey",6.15 lbs,6.15 lbs,59.99,$0.68 each
+"Protein shakes, Premier Nutrition",18 @ 11 oz,198 oz,24.99,"$0.13 per oz, or $1.39 each"
+"Protein shakes, Vega Protein and Greens",26.8 oz,26.8 oz,29.99,$1.12 per oz
+"Quinoa, Kirkland Signature",1 bag,4.5 lbs,11.49,$2.55 per lb
+"Quinoa and Brown Rice, Seeds of Change organic",6 @ 8.5 oz,51 oz,11.39,$0.22 per oz
+"Refried beans, Rosarita, no-fat",8 @ 16 oz,128 oz,6.79,"$0.05 per oz, or $0.85 per can"
+"Rice, Blue Ribbon Long Grain",1 bag,25 lbs,8.49,$0.34 per lb
+"Rice, Homai Calrose",1 bag,25 lbs,10.79,$0.43 per lb
+"Rice, Kirkland Signature Thai Hom Mali Jasmine",1 bag,25 lbs,14.99,$0.60 per lb
+"Rice, Kirkland Signature Traditional Basmati",11 lbs,11 lbs,10.59,$0.96 per lb
+"Rice, Lundberg Organic Brown",12 lbs,12 lbs,13.99,$1.17 per lb
+"Rice, Minute Rice",1 box,72 oz,5.49,$1.22 per lb
+"Rice, Shira Kiku Cooked Sticky",10 @ 7.05 oz,70.5 oz,11.99,$0.17 per oz or $1.20 each
+"Salad Dressing, Hidden Valley Ranch Homestyle",2 @ 40 oz,80 oz,9.99,$0.13 per oz
+"Salad Dressing, Hidden Valley Ranch dry mix",15.7 oz,15.7 oz,7.69,$0.49 per oz
+"Salad Dressing, Olive Garden Italian",2 @ 24 oz,48 oz,7.49,$0.16 per oz
+"Salsa, Kirkland Signature Organic",2 @ 38 oz,76 oz,7.69,$0.10 per oz
+"Salsa, Pace Picante, medium",2 @ 38 oz,76 oz,5.39,$0.07 per oz
+"Salt, Morton non-iodized table",1 bag,25 lbs,5.69,$0.23 per lb
+"Seasoning, Johnny's Garlic Spread",1 jar,18 oz,5.99,$0.33 per oz
+"Seasoning, Kirkland Signature California granulated garlic",1 jar,18 oz,5.49,$0.31 per oz
+"Seasoning, Kirkland Signature chopped onion",1 jar,11.7 oz,3.59,$0.31 per oz
+"Seasoning, Kirkland Signature crushed red pepper",1 jar,10 oz,2.99,$0.30 per oz
+"Seasoning, Kirkland Signature coarse ground malabar pepper",1 jar,12.7 oz,6.99,$0.55 per oz
+"Seasoning, Kirkland Signature minced garlic",1 jar,48 oz,4.69,$0.10 per oz
+"Seasoning, Kirkland Signature organic no-salt",1 jar,14.5 oz,7.99,$0.55 per oz
+"Seasoning, Kirkland Signature pure sea salt",1 jar,30 oz,2.79,$0.09 per oz
+"Seasoning, Kirkland Signature Saigon cinnamon",1 jar,10.7 oz,2.59,$0.24 per oz
+"Seasoning, Kirkland Signature Sweet Mesquite",1 jar,19.3 oz,6.39,$0.33 per oz
+"Seasoning, Kirkland Signature tellicherry whole pepper",1 jar,14.1 oz,7.79,$0.55 per oz
+"Seasoning, Lawry's Garlic Salt",1 jar,33 oz,5.99,$0.18 per oz
+"Seasoning, Litehouse Freeze Dried Dill",1 jar,0.81 oz,5.49,$6.79 per oz
+"Seasoning, Litehouse Freeze Dried Garlic",1 jar,2.7 oz,5.79,$2.34 per oz
+"Seasoning, Litehouse Freeze Dried Red Onion",1 jar,1.13 oz,5.39,$4.77 per oz
+"Seasoning, McCormick Cinnamon Sticks",1 jar,8 oz,4.39,$0.60 per oz
+"Seasoning, McCormick Dark Chili Pepper",1 jar,20 oz,5.49,$0.28 per oz
+"Seasoning, McCormick Mac and Cheese Seasoning",1 jar,18 oz,6.99,$0.39 per oz
+"Seasoning, McCormick Smoked Paprika",1 jar,8.5 oz,3.79,$0.45 per oz
+"Seasoning, McCormick Spaghetti Sauce Mix",1 jar,20.5 oz,4.99,$0.24 per oz
+"Seasoning, McCormick Taco Seasoning",1 jar,24 oz,4.29,$0.18 per oz
+"Seasoning, Mrs. Dash original no-salt",1 jar,21 oz,9.99,$0.48 per oz
+"Seaweed, Kirkland Signature Roasted",10 ct,10 ct,7.89,$0.79 per ct
+"Single serve fruit, Gogo Squeeze Organic Applesauce",20 @ 3.2 oz,64 oz,10.99,"$0.17 per oz, or $0.55 each"
+"Single serve fruit, Kirkland Signature Organic Applesauce Pouch",24 @ 3.2 oz,76.8 oz,9.99,$0.42 each
+"Soup, Amy's Organic Lentil and Lentil Vegetable",8 @ 14.5 oz,116 oz,12.79,$0.11 per oz or $1.60 each
+"Soup, Campbell's Cream of Mushroom",12 @ 10.5 oz,126 oz,9.89,$0.08 per oz or $0.82 each
+"Soup, Cattle Drive Chili with Beans",6 @ 15 oz,90 oz,9.99,"$0.11 per oz, or $1.67 per can"
+"Soup, Healthy Choice chicken noodle and rice",10 @ 15 oz,150 oz,9.79,"$0.07 per oz, or $0.98 per can"
+"Soup, Kirkland Signature Chicken Stock, organic",6 @ 32 oz,192 oz,11.99,"$0.06 per oz, or $2 per carton"
+"Soup, Nalley's mild chili with beans",12 @ 15 oz,180 oz,12.79,"$0.07 per oz, or $1.07 per can"
+"Soup, Nissin Cup of Noodles Chicken",24 @ 2.5 oz,24 ct,6.39,$0.27 each
+"Soup, Nissin Top Ramen Beef/Chicken",48 @ 3 oz,48 ct,8.29,$0.17 each
+"Soup, Progresso Chicken Noodle",8 @ 19 oz,152 oz,9.99,"$0.07 per oz, or $1.25 per can"
+"Soup, Progresso Clam Chowder",8 @ 18.5 oz,148 oz,9.99,$0.07 per oz or $1.25 each
+"Soup, Pacific Organic Chicken Bone Broth",6 @ 32 oz,192 oz,18.89,$0.10 per oz or $3.15 each
+"Soup, Pacific Organic Roasted Red Pepper and Tomato",6 @ 32 oz,192 oz,11.99,$0.06 per oz
+"Soup, Swanson Chicken Broth 33% Less Sodium",12 @ 14.5oz,174 oz,6.59,"$0.04 per oz, or $0.55 per can"
+"Soy sauce, Kikkoman",1 bottle,64 oz,4.99,$0.08 per oz
+"Tea bags, Kirkland Signature Japanese green tea",100 ct,100 ct,12.99,$0.13 each
+"Tortillas, Guerrero 6"" Corn",2 @ 50 ct,100 ct,3.99,$0.04 each
+"Tortillas, Mission 8"" Flour",40 ct,40 ct,4.99,$0.12 each
+"Tortillas, Mission 10"" Flour",2 @ 20 ct,40 ct,5.79,$0.14 each
+"Tortillas, Mission Whole Wheat",24 ct,24 ct,3.99,$0.17 each
+"Trail mix, Harvest Grove Berries & Nuts",32 oz,32 oz,12.79,$0.40 per oz
+"Trail mix, Kirkland Signature Organic Nuts and Berries",28 oz,28 oz,12.99,$0.46 per oz
+"Trail mix, Kirkland Signature with M&M's",4 lbs,4 lbs,12.89,$3.22 per lb
+"Trail mix, Trail Blaze Organic",16 oz,16 oz,11.49,$0.72 per oz
+"Trail mix, Wildroots Coastal Berry Blend",26 oz,26 oz,9.69,$0.37 per oz
+"Vegetable oil, Kirkland Signature",2 @ 3 qts,6 qts,8.39,$1.40 per quart
+"Vinegar, Four Monks Distilled",2 @ 1 gallon,2 gallon,4.29,$2.15 per gallon
+"Vinegar, Vermont Village Apple Cider, organic",2 @ 32 oz,64 oz,6.49,$0.10 per oz
+"Worcestershire sauce, Lea & Perrins",2 @ 20 oz,40 oz,6.89,$0.17 per oz
+"Beef, chuck pot roast, boneless",varies,varies,varies,$5.39 per lb
+"Beef, flank steak",varies,varies,varies,$7.49 per lb
+"Beef, ground, 88% lean",varies,varies,varies,$3.39 per lb
+"Beef, ground, 88% lean, patties",varies,varies,varies,$3.39 per lb
+"Beef, ground, 88% lean, tube",varies,varies,varies,$2.99 per lb
+"Beef, ground, lean,organic",4 lbs,4 lbs,19.99,$4.99 per lb
+"Beef, loin New York steak",varies,varies,varies,$6.99 per lb
+"Beef, loin top loin whole (New York)",varies,varies,varies,$5.39 per lb
+"Beef, loin top sirloin cap steak, boneless, USDA Choice",varies,varies,varies,$5.99 per lb
+"Beef, loin top sirloin steak, boneless, cap off, USDA Prime",varies,varies,varies,$6.99 per lb
+"Beef, loin tri tip steak",varies,varies,varies,$5.99 per lb
+"Beef, loin tri tip steak, USDA Prime",varies,varies,varies,$6.99 per lb
+"Beef, Ribeye steak boneless",varies,varies,varies,$9.49 per lb
+"Beef, round trip round",varies,varies,varies,$3.69 per lb
+"Beef, stew",varies,varies,varies,$4.79 per lb
+"Chicken, boneless, skinless breasts",varies,varies,varies,$2.99 per lb
+"Chicken, boneless, skinless breasts, marinated",varies,varies,varies,$3.29 per lb
+"Chicken, boneless, skinless breasts, organic",varies,varies,varies,$5.99 per lb
+"Chicken, boneless skinless tenderloin",varies,varies,varies,$2.99 per lb
+"Chicken, fresh fryer drumsticks, Foster Farms",varies,varies,varies,$1.29 per lb
+"Chicken, whole bagged fryers",varies,varies,varies,$1.19 per lb
+"Chicken, whole young, organic",varies,varies,varies,$2.49 per lb
+"Chicken, Rotisserie Chicken (from Deli)",min. 3 lbs,,4.99,$1.66 per lb
+"Chicken, thighs, boneless, skinless, Foster Farms",varies,varies,varies,$2.99 per lb
+"Chicken, wings, Foster Farms",varies,varies,varies,$2.59 per lb
+"Fish, Cod, Wild Pacific",varies,varies,varies,$6.99 per lb
+"Fish, Rockfish, Wild Pacific",varies,varies,varies,$5.99 per lb
+"Fish, Salmon, farmed Atlantic fillets, fresh",varies,varies,varies,$9.99 per lb
+"Fish, Steelhead fillet, farmed",varies,varies,varies,$7.99 per lb
+"Fish, Tilapia, fresh farmed",varies,varies,varies,$4.99 per lb
+"Fish, Tuna, Ahi",varies,varies,varies,$13.99 per lb
+"Ham, Kirkland Signature Boneless Ham Steaks",varies,varies,varies,$3.29 per lb
+"Ham, Kirkland Signature Mastercarve Half Ham",varies,varies,varies,$2.29 per lb
+"Ham, Kirkland Signature Spiral Sliced Ham",varies,varies,varies,$1.99 per lb
+"Lamb, leg roast",varies,varies,varies,$4.99 per lb
+"Pork, loin back ribs baby back ribs",varies,varies,varies,$3.49 per lb
+"Pork, loin chops / roast, boneless",varies,varies,varies,$2.69 per lb
+"Pork, St. Louis ribs brisket, bones removed",varies,varies,varies,$3.19 per lb
+"Sausage, breakfast link saddle pack",5 lbs,5 lbs,13.99,$2.80 per lb
+"Sausage, mild Italian saddle pack",5 lbs,5 lbs,13.99,$2.80 per lb
+"Turkey, fresh ground, Foster Farms",varies,varies,varies,$2.99 per lb
+"Baby back ribs, Curly's BBQ",1 box,3 lb,14.79,$4.93 per lb
+"Bacon, Columbus smoked turkey",2.5 lbs,2.5 lbs,13.69,$5.48 per lb
+"Bacon, Fletcher's dry cured",2 @ 2lbs,4 lbs,14.99,$3.75 per lb
+"Bacon, Hempler's Uncured ABF Bacon",2 @ 1.5 lbs,3 lbs,12.99,$4.33 per lb
+"Bacon, Kirkland Signature Precooked",1 lb,1 lb,9.99,$9.99 per lb
+"Bacon, Kirkland Signature Premium Sliced",4 @ 1lbs,4lbs,11.39,$2.85 per lb
+"Bacon, Sunny Valley Hickory Smoked low sodium",2 @ 2 lbs,4 lbs,13.49,$3.73 per lb
+"Canadian Bacon, Rose's",2 @ 16oz,2 lbs,10.79,$5.40 per lb
+"Chicken, Kirkland Signature grilled strips",32 oz,32 oz,9.99,$0.31 per oz
+"Ham, Kirkland Signature Black Forest Ham, sliced",varies,varies,varies,$4.69 per lb
+"Ham, Kirkland Signature extra lean",2 @1.5 lb,3 lbs,9.99,$3.33 per lb
+"Hot dogs, Kirkland Signature hot dogs, beef",3 @ 1.5 lb,4.5 lbs,9.99,$2.22 per lb
+"Hot dogs, Kirkland Signature Polish Sausage",1 package,3.81 lbs,8.99,$3.36 per lb
+"Hot dogs, Kirkland Signature Beef dinner franks",1 package,3.81 lbs,8.99,$2.36 per lb
+"Lunch meat, Hillshire Farm Deli Select",3 @ 1 lb,3 lbs,10.69,$3.56 per lb
+"Lunch meat, Kirkland Signature variety",3 @ 14oz,42 oz,11.89,$4.53 per lb
+"Meatballs, Aidells",46 oz,46 oz,13.79,$0.30 per oz
+"Pastrami, Columbus",1.5 lbs,1.5 lbs,13.49,$9 per lb
+"Prosciutto di Parma, Citterio",12 oz,12 oz,11.49,$0.96 per oz
+"Roast Beef, Kirkland Signature sliced",1 package,varies,varies,$6.49 per lb
+"Salame, Columbus, low sodium",1 package,32 oz,13.89,$6.95 per lb
+"Sausage, Aidell's",1 package,3 lbs,13.99,$4.63 per lb
+"Sausage, Jimmy Dean roll",1 roll,3 lbs,7.99,$2.66 per lb
+"Sausage, Jimmy Dean turkey, fully cooked",48 ct,48 ct,9.49,$3.95 per lb
+"Turkey, Columbus nitrate free",varies,varies,varies,$7.49 per lb
+"Turkey, Hillshire Farm Naturals",3 @ 11 oz,33 oz,9.59,$4.65 per lb
+"Turkey, Kirkland Signature honey roasted",varies,varies,varies,$6.89 per lb
+"Turkey, Kirkland Signature oven roasted",varies,varies,varies,$3.99 per lb
+"Turkey, Kirkland Signature oven roasted",3 @ 14 oz,42 oz,9.99,$3.81 per lb
+"Apples, Envy",12 ct,5.5 lbs,9.99,$1.82 per lb
+"Apples, Fuji",12 ct,5.5 lbs,6.49,$1.18 per lb
+"Apples, Fuji, organic",12 ct,5.5 lbs,9.49,$1.73 per lb
+"Apples, Gala, organic",12 ct,5.5 lbs,8.99,$1.63 per lb
+"Apples, Honeycrisp",12 ct,5.5 lbs,12.99,$2.36 per lb
+"Apples, Honeycrisp, organic",12 ct,5.5 lbs,16.99,$3.09 per lb
+"Apples, Opal, organic",12 ct,5.5 lbs,9.49,$1.73 per lb
+"Apples, Pink Lady, organic",5.5 lbs,5.5 lb,10.99,$2.00 per lb
+"Apples, Red Delicious, organic",10 lbs,10 lbs,6.99,$0.70 per lb
+"Apples, sliced, organic",8 @ 4oz,32 oz,6.99,$0.87 each
+Asparagus,2.25 lbs,2.25 lbs,8.49,$3.77 per lb
+"Avocado, Hass",6 ct,6 ct,6.99,$1.17 each
+Bananas,1 bag,3 lbs,1.39,$0.46 per lb
+"Bananas, organic",1 bag,3 lbs,1.99,$0.66 per lb
+"Bell peppers, red",6 ct,6 ct,6.79,$1.13 each
+"Bell Peppers, variety",6 ct,6 ct,6.99,$1.17 each
+Blackberries,1 clamshell,18 oz,4.79,$4.26 per lb
+Blueberries,1 clamshell,18 oz,4.79,$4.26 per lb
+"Blueberries, organic",1 clamshell,18 oz,6.99,$6.21 per lb
+Broccolette,1 bag,2 lbs,5.49,$2.74 per lb
+"Broccoli, florets",1 bag,3 lbs,4.79,$1.60 per lb
+Brussels Sprouts,1 bag,2 lbs,4.29,$2.15 per lb
+Cantaloupe,1 bag,2 ct,4.99,$2.50 each
+"Carrots, organic",10 lb bag,10 lbs,4.99,$0.49 per lb
+"Carrots, organic peeled",5 lb bag,5 lbs,4.99,$1.00 per lb
+"Carrots, organic rainbow",5 lb bag,5 lbs,3.99,$0.80 per lb
+Cauliflower florets,1 container,2 lbs,3.99,$2.00 per lb
+Celery sticks,1 bag,2.5 lbs,3.49,$1.40 per lb
+"Cherries, sweet red",1 bag,2 lbs,9.99,$5.00 per lb
+Clementines,5 lbs,5 lbs,6.49,$1.30 per lb
+"Corn, ears, husked and trimmed",1 pkg,8 ears,6.49,$0.81 each
+"Cucumbers, cocktail",1 pkg,1.5 lbs,4.99,$3.33 per lb
+"Cucumbers, English, hothouse grown",1 pkg,3 ct,3.39,$1.13 each
+"Dates, Medjool, organic",1 container,2 lbs,9.99,$5.00 per lb
+Fresh Cut Fruit Bowl,1 bowl,3 lbs,9.99,$3.33 per lb
+"Garlic, large",3 lb bag,3 lbs,6.99,$2.33 per lb
+"Grapefruit, large premium",1 bag,8 lbs,7.49,$0.94 per lb
+"Grapes, globe seeded",1 container,5 lbs,7.99,$1.60 per lb
+"Grapes, red seedless",1 container,4 lbs,9.99,$2.50 per lb
+"Green Beans, fresh, French",2 lbs,2 lbs,4.99,$2.50 per lb
+"Green Beans, organic",2 lbs,2 lbs,5.49,$2.75 per lb
+Honeydew melon,1 melon,1 melon,4.49,$4.49 each
+"Kale, baby, organic mixed",1 bag,1.5 lbs,4.79,$3.19 per lb
+Kiwi,1 box,4 lbs,5.99,$1.50 per lb
+"Kiwi, golden",1 box,2 lbs,6.49,$3.25 per lb
+"Lettuce, Butter",1 box,3 ct,3.99,$1.33 each
+"Lettuce, Romaine Hearts",1 bag,6 ct,3.79,$0.63 each
+"Lettuce, Romaine Hearts, Artisan",1 bag,5 ct,3.49,$0.70 each
+"Lettuce, Romaine Hearts, organic",1 bag,6 ct,3.99,$0.67 each
+"Lettuce/Spring Mix, organic",1 lb,1 lb,3.99,$3.99 per lb
+Limes,1 bag,5 lb,5.49,$1.10 per lb
+Mangos,1 box,6 ct,6.99,$1.17 each
+"Mushrooms, large white",1 box,24 oz,3.99,$2.66 per lb
+"Mushrooms, portabello, baby",1 box,24 oz,4.49,$2.99 per lb
+Nectarines,1 box,5 lbs,6.99,$1.75 per lb
+"Onions, red organic",1 bag,8 lbs,5.79,$0.72 per lb
+"Onions, sweet jumbo",1 bag,5 lbs,3.79,$0.76 per lb
+"Onions, yellow, organic",1 bag,10 lbs,4.79,$0.48 per lb
+"Oranges, cara cara",8 lbs,8 lbs,6.99,$0.87 per lb
+Oranges,1 bag,13 lbs,10.99,$0.85 per lb
+Papaya,1 box,4 ct,7.49,$1.87 each
+"Pears, Bartlett",1 box,6 lbs,6.99,$1.17 per lb
+"Pears, D'Anjou, organic",1 box,6 lbs,7.49,$1.25 per lb
+"Peas, Sugar Snap",1 bag,24 oz,4.99,$3.33 per lb
+"Peppers, mini",1 bag,1.5 lbs,5.79,$3.86 per lb
+"Pineapple, golden",1 count,1 count,2.99,$2.99 each
+"Pineapple, sliced",1 box,3 lb,7.99,$2.66 per lb
+Pomegranate arils,1 box,16 oz,6.49,$0.41 per oz
+"Potatoes, baking, extra large",1 bag,20 lbs,4.99,$0.25 per lb
+"Potatoes, gourmet creamer",1 bag,5 lbs,7.99,$1.60 per lb
+"Potatoes, large, gold",1 bag,15 lbs,7.99,$0.53 per lb
+"Potatoes, red, small",1 bag,10 lbs,5.49,$0.55 per lb
+"Power Greens, organic",1 bag,1.5 lbs,4.99,$3.33 per lb
+Raspberries,1 clamshell,12 oz,4.99,$6.65 per lb
+"Salad, Asian Chopped Kit",1 bag,23.58oz,4.29,$0.18 per oz
+"Salad, Caesar Kit",1 bag,16.95 oz,3.49,$0.21 per oz
+"Salad, Sweet Kale Gourmet",1 bag,28 oz,4.79,$0.17 per oz
+Spinach,1 clamshell,2.5 lbs,4.79,$1.92 per lb
+"Spinach, baby, organic",1 clamshell,1 lb,3.99,$3.99 per lb
+"Squash, butternut, organic",2 ct bag,2 ct,5.99,$3 each
+"Squash, organic",1 box,3.5 lbs,6.49,$1.85 per lb
+"Squash, spaghetti, organic",2 ct bag,2 ct,5.99,$3 each
+Strawberries,1 clamshell,2 lb,5.49,$2.75 per lb
+"Strawberries, organic",1 clamshell,2 lb,8.99,$4.50 per lb
+"Sweet potatoes, organic",1 bag,10 lbs,10.99,$1.09 per lb
+"Tomatoes, campari, hothouse grown",1 box,2 lbs,5.49,$2.74 per lb
+"Tomatoes, gourmet medley",1 box,2 lbs,6.49,$3.25 per lb
+"Tomatoes, grape, hothouse grown",1 box,2 lbs,5.99,$3 per lb
+"Tomatoes, mini San Marzano, hothouse grown",1 box,1.5 lbs,4.99,$3.33 per lb
+"Tomatoes, on the vine",1 box,4 lbs,5.99,$1.50 per lb
+"Tomatoes, Roma, hothouse grown",1 box,2 lbs,4.99,$2.50 per lb
+"Watermelon, mini, seedless",1 bag,2 ct,6.49,$3.25 each
+"Watermelon, seedless",1 ct,1 ct,7.99,$7.99 each
+"Artichoke Jalapeno Dip, Stonemill Kitchens",1 jar,30 oz,7.89,$0.25 per oz
+"Artichoke Parmesan Dip, La Terra Firma",1 jar,31 oz,7.99,$0.26 per oz
+"Broccoli cheddar soup, Kirkland Signature",2 @ 32 oz,64 oz,9.49,$0.15 per oz
+"Clam Chowder, Ivar's",2 @ 24 oz,48 oz,9.39,$0.20 per oz
+"Dressing, Gregg's Ranch",1 jug,64 oz,5.99,$0.09 per oz
+"Dressing, Litehouse Bleu",2 @ 32 oz,64 oz,10.49,$0.16 per oz
+"Grapefruit cups, Kirkland Signature",12 @ 8 oz,96 oz,9.99,$0.83 each
+"Guacamole, Good Food Singles",12 @ 2.5 oz,30 oz,10.99,$0.37 per oz
+"Guacamole, Wholly Organic",3 @ 16 oz,48 oz,11.99,$0.25 per oz
+"Hummus, Fresh Food Concepts Organic",1 jar,33 oz,5.99,$0.18 per oz
+"Hummus, Hope Foods Organic Spicy Avocado",1 tub,26 oz,5.99,$0.23 per oz
+"Hummus, Kirkland Signature Organic",20 @ 2.4 oz,48 oz,6.49,$0.14 per oz or $0.32 each
+"Hummus, Sabra Garlic and Original",2 tubs @ 23.5 oz,47 oz,6.99,$0.15 per oz
+"Hummus, Sabra Red Pepper",1 jar,32 oz,6.99,$0.22 per oz
+"Juice, Kirkland Signature organic",2 @ 59 oz,118 oz,7.99,$0.07 per oz
+"Juice, Naked Green Machine",1 bottle,64 oz,5.99,$0.09 per oz
+"Juice, Naked Variety Smoothies",12 @ 10 oz,120 oz,14.49,$0.12 per oz or $1.21 each
+"Juice, P.O.M. Wonderful Pomegranate",60 oz,60 oz,8.99,$0.15 per oz
+"Juice, Suja Organic Mighty Dozen",59 oz,59 oz,8.99,$0.15 per oz
+"Juice, Tropicana Pure Premium",3 @ 59 oz,177 oz,8.79,$0.05 per oz
+"Kombucha, Brew Dr. Organic Variety",6 @ 14 oz,84 oz,12.99,$0.16 per oz or $2.16 each
+Perfect Bar,12 ct,12 ct,18.49,$1.54 each
+"Pesto, Kirkland Signature Italian",22 oz,22 oz,7.89,$0.36 per oz
+"Roasted Red Pepper Dip, Chobani",1 jar,32 oz,6.99,$0.22 per oz
+"Salsa, Garden Fresh Gourmet, Jack's organic",1 jar,48 oz,6.49,$0.14 per oz
+"Salsa, Santa Barbara Mango",1 jar,48 oz,5.39,$0.11 per oz
+"Smoked Salmon Dip, La Terra Fina",1 tub,24 oz,9.59,$0.40 per oz
+"Tapioca Pudding, Harry's Organic",2 @ 32 oz,64 oz,10.49,$0.16 per oz
+"Tofu, House Foods Organic Firm",4 @ 14oz,56 oz,5.69,$0.10 per oz
+"Tortelloni, Kirkland Signature Five Cheese",2 @ 24 oz,48 oz,9.99,$0.21 per oz
+"Tortillas, Tortillaland uncooked",2 @ 25 ct,50 ct,6.59,$0.13 each
+"Teriyaki stir fry udon, Monterey Gourmet Foods",27.8 oz,27.8 oz,7.99,$0.29 per oz

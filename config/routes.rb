@@ -6,6 +6,8 @@ Rails.application.routes.draw do
       post '/restaurants', to: 'restaurants#find_restaurants'
       post '/menus', to: 'menus#find_menu'
       post '/ingredients', to: 'ingredients#find_ingredients'
+      post '/signup', to: 'users#create'
+      post '/login', to: 'auth#create'
     end
   end
 end
