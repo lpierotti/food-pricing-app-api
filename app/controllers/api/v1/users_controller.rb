@@ -1,6 +1,7 @@
 class Api::V1::UsersController < ApplicationController
 
-	def create 
+	def create
+		 
 		@user = User.new(username: params[:username], password: params[:password])
 		if @user.save
 			payload = {user_id: @user.id}
