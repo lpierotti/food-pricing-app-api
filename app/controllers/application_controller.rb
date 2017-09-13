@@ -23,6 +23,7 @@ class ApplicationController < ActionController::API
 	    if !decoded_hash.empty?
 	      user_id = decoded_hash[0]["user_id"]
 	      user = User.find(user_id)
+	    else
 	    end
 	  end
 

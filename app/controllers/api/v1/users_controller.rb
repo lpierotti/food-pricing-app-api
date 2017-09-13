@@ -11,4 +11,9 @@ class Api::V1::UsersController < ApplicationController
 		end
 	end
 
+	def user_recipes
+		user = current_user
+		render json: {recipes: [user.recipes]}
+	end
+
 end

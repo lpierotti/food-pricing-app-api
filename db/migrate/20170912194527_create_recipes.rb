@@ -5,6 +5,7 @@ class CreateRecipes < ActiveRecord::Migration[5.1]
     	t.string :yield
     	t.string :ingredients
     	t.float :price
+    	t.string :image_url
     end
   end
 end

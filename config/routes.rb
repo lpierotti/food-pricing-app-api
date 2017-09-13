@@ -8,6 +8,8 @@ Rails.application.routes.draw do
       post '/ingredients', to: 'ingredients#find_ingredients'
       post '/signup', to: 'users#create'
       post '/login', to: 'auth#create'
+      get '/user/:id/recipes', to: 'user#user_recipes'
+      post '/recipes/new', to: 'recipes#create'
     end
   end
 end
