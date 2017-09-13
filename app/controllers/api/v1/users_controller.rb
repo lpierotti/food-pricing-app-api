@@ -14,7 +14,7 @@ class Api::V1::UsersController < ApplicationController
 	def user_recipes
 		recipes = current_user.recipes
 		mapped_recipes = recipes.map do |recipe|
-			response = HTTParty.get("https://api.edamam.com/search?q=#{recipe.reference}&app_id=87d3e4f6&app_key=091ef338fd5241717048490065af2e8b&to=1", format: :plain)
+			response = HTTParty.get("https://api.edamam.com/search?q=#{recipe.reference}&app_id=88ca5e29&app_key=44752d1884e7b59858726c97ad7b6089&to=1", format: :plain)
 			json = JSON.parse(response, {symbolize_names: true})
 			recipe_name = json[:hits][0][:recipe][:label]
 			recipe_yield = json[:hits][0][:recipe][:yield]
