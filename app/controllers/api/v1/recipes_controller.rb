@@ -8,8 +8,8 @@ class Api::V1::RecipesController < ApplicationController
 		recipe_name = json[:hits][0][:recipe][:label]
 		recipe_yield = json[:hits][0][:recipe][:yield]
 		recipe_ingredients = json[:hits][0][:recipe][:ingredients]
-    recipe_image = json[:hits][0][:recipe][:image]
-    recipe_uri = json[:hits][0][:recipe][:uri].split("_")[1]
+    	recipe_image = json[:hits][0][:recipe][:image]
+    	recipe_uri = json[:hits][0][:recipe][:uri].split("_")[1]
 		render :json => {ingredients: recipe_ingredients, name: recipe_name, yield: recipe_yield, image: recipe_image, recipe_uri: recipe_uri}
 	end
 
