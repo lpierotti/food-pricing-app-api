@@ -8,14 +8,14 @@ class ApplicationController < ActionController::API
 		begin
 			JWT.decode(token, "BuTtErGrAmS")
 		rescue JWT::DecodeError
-			[]
+			""
 		end
 	end
 
 	def token
-		if bearer_token == request.headers["Authorization"]
-			jwt_token = bearer_token.split(" ")[1]
-		end
+		byebug
+		bearer_token = request.headers["Authorization"]
+		jwt_token = bearer_token.split(" ")[1]
 	end
 
 	def current_user

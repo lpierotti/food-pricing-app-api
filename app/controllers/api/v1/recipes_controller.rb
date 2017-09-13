@@ -8,13 +8,15 @@ class Api::V1::RecipesController < ApplicationController
 		recipe_yield = json[:hits][0][:recipe][:yield]
 		recipe_ingredients = json[:hits][0][:recipe][:ingredients]
     	recipe_image = json[:hits][0][:recipe][:image]
-		render :json => {ingredients: recipe_ingredients, name: recipe_name, yield: recipe_yield, image: recipe_image}
+    	recipe_uri = json[:hits][0][:recipe][:image].split("_")[1]
+		render :json => {ingredients: recipe_ingredients, name: recipe_name, yield: recipe_yield, image: recipe_image, recipe_uri: recipe_uri}
 	end
 
 
 	def create
-		recipe = Recipe.find_or_create_by(name: params[:name], yield: params[:yield], image_url: params[:image_url], ingredients: params[:ingredients], price: params[:price])
-		UserRecipes.create(user_id: current_user.id, recipe_id: recipe.id)
+		
+		recipe = Recipe.find_or_create_by(reference: params[:reference])
+		UserRecipe.create(user_id: current_user.id, recipe_id: recipe.id)
 	end
 
 end

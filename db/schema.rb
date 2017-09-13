@@ -26,11 +26,7 @@ ActiveRecord::Schema.define(version: 20170912200414) do
   end
 
   create_table "recipes", force: :cascade do |t|
-    t.string "name"
-    t.string "yield"
-    t.string "ingredients"
-    t.float "price"
-    t.string "image_url"
+    t.string "reference"
   end
 
   create_table "user_recipes", force: :cascade do |t|
