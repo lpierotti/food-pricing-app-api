@@ -13,21 +13,22 @@ class ApplicationController < ActionController::API
 	end
 
 	def token
-		byebug
 		bearer_token = request.headers["Authorization"]
-		jwt_token = bearer_token.split(" ")[1]
+		jwt_token = bearer_token
 	end
 
 	def current_user
-	    decoded_hash = decoded_token(token)
-	    if !decoded_hash.empty?
-	      user_id = decoded_hash[0]["user_id"]
-	      user = User.find(user_id)
-	    else
-	    end
-	  end
+    decoded_hash = decoded_token(token)
+    if !decoded_hash.empty?
+      user_id = decoded_hash[0]["user_id"]
+      user = User.find(user_id)
+    else
+    end
+  end
 
-	  def logged_in?
-	    !!current_user
-	  end
+  def logged_in?
+    !!current_user
+  end
+
+
 end
